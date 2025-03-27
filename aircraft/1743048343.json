@@ -1,0 +1,7 @@
+{ "now" : 1743048344.0,
+  "messages" : 5063,
+  "aircraft" : [
+    {"hex":"ab013c","mlat":[],"tisb":[],"messages":6,"seen":80.5,"rssi":-31.7},
+    {"hex":"ac1846","gs":577.3,"track":127.8,"baro_rate":0,"squawk":"7442","emergency":"none","category":"A5","version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":172,"seen":49.5,"rssi":-29.2}
+  ]
+}

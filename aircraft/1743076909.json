@@ -1,0 +1,8 @@
+{ "now" : 1743076909.3,
+  "messages" : 26193,
+  "aircraft" : [
+    {"hex":"ab8f0d","flight":"DAL2752 ","alt_baro":15875,"alt_geom":15900,"gs":301.1,"track":268.7,"baro_rate":-128,"squawk":"6610","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":10016,"nav_heading":274.9,"lat":44.865463,"lon":-92.747367,"nic":8,"rc":186,"seen_pos":1.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":183,"seen":0.1,"rssi":-13.8},
+    {"hex":"ababb7","alt_baro":35000,"alt_geom":35000,"category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":302,"seen":67.1,"rssi":-19.6},
+    {"hex":"ac912e","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1330,"seen":254.4,"rssi":-19.0}
+  ]
+}

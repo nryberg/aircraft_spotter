@@ -1,0 +1,6 @@
+{ "now" : 1743063873.2,
+  "messages" : 13072,
+  "aircraft" : [
+    {"hex":"acb46d","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":36,"seen":222.7,"rssi":-20.5}
+  ]
+}

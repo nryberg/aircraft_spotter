@@ -1,0 +1,15 @@
+{ "now" : 1743086130.7,
+  "messages" : 102142,
+  "aircraft" : [
+    {"hex":"a16e3b","flight":"COL1910 ","alt_baro":14550,"alt_geom":14525,"gs":304.1,"track":261.9,"geom_rate":-1600,"squawk":"1322","emergency":"none","category":"A2","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":272.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":47,"seen":10.8,"rssi":-18.2},
+    {"hex":"aaff90","flight":"N80796  ","alt_baro":2075,"alt_geom":2050,"gs":120.1,"track":267.6,"geom_rate":0,"squawk":"1200","emergency":"none","category":"A1","lat":44.944091,"lon":-92.829180,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":313,"seen":0.1,"rssi":-13.3},
+    {"hex":"a80689","flight":"JENA616 ","alt_baro":40000,"alt_geom":39925,"gs":390.2,"track":294.5,"baro_rate":64,"squawk":"6522","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":40000,"nav_modes":["autopilot","althold","tcas"],"lat":45.315491,"lon":-92.742070,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":260,"seen":0.1,"rssi":-16.3},
+    {"hex":"a9e624","flight":"N737ME  ","alt_baro":2200,"alt_geom":2250,"gs":95.7,"track":64.0,"baro_rate":-448,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1021.6,"nav_altitude_mcp":2496,"lat":44.987850,"lon":-92.895433,"nic":9,"rc":75,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":640,"seen":0.1,"rssi":-3.7},
+    {"hex":"a12ade","flight":"N1743V  ","alt_baro":1075,"alt_geom":1225,"gs":66.1,"track":320.5,"baro_rate":-1024,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1021.6,"nav_altitude_mcp":3488,"lat":44.986313,"lon":-92.840620,"nic":9,"rc":75,"seen_pos":6.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1026,"seen":6.3,"rssi":-16.7},
+    {"hex":"ab48cc","flight":"SCX390  ","alt_baro":10550,"alt_geom":11000,"gs":267.2,"track":261.2,"baro_rate":-1536,"category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":265.8,"lat":44.836166,"lon":-93.054003,"nic":8,"rc":186,"seen_pos":29.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":683,"seen":11.3,"rssi":-18.5},
+    {"hex":"ac144e","alt_baro":2400,"category":"A1","lat":44.949600,"lon":-92.718920,"nic":9,"rc":75,"seen_pos":25.3,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":163,"seen":24.9,"rssi":-19.4},
+    {"hex":"a186c5","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":633,"seen":89.3,"rssi":-18.1},
+    {"hex":"a3c5fd","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1012,"seen":168.7,"rssi":-16.6},
+    {"hex":"a96601","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2998,"seen":245.1,"rssi":-19.0}
+  ]
+}

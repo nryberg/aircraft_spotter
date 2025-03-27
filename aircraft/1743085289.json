@@ -1,0 +1,8 @@
+{ "now" : 1743085289.6,
+  "messages" : 92977,
+  "aircraft" : [
+    {"hex":"a24ef7","flight":"AAY1368 ","alt_baro":10125,"alt_geom":10225,"gs":265.1,"track":271.5,"baro_rate":-1600,"squawk":"2153","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":10016,"nav_heading":272.8,"lat":44.865231,"lon":-92.830922,"nic":8,"rc":186,"seen_pos":2.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":277,"seen":0.1,"rssi":-16.3},
+    {"hex":"a80fe5","alt_baro":4150,"alt_geom":4175,"gs":82.9,"track":131.6,"baro_rate":640,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1021.6,"nav_heading":319.9,"lat":45.016022,"lon":-92.746778,"nic":8,"rc":186,"seen_pos":26.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":490,"seen":8.8,"rssi":-18.1},
+    {"hex":"c07b0a","flight":"ACA193  ","alt_baro":33975,"alt_geom":34025,"gs":375.2,"track":277.5,"geom_rate":64,"squawk":"2213","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":282.0,"lat":45.124015,"lon":-93.136262,"nic":8,"rc":186,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":801,"seen":0.0,"rssi":-7.8}
+  ]
+}

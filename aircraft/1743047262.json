@@ -1,0 +1,7 @@
+{ "now" : 1743047262.6,
+  "messages" : 3197,
+  "aircraft" : [
+    {"hex":"aaf960","flight":"AAL2906 ","alt_baro":4750,"alt_geom":4800,"gs":250.0,"track":275.0,"baro_rate":-1344,"squawk":"6217","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":4000,"nav_heading":276.3,"lat":44.773590,"lon":-92.798113,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":1,"sda":2,"mlat":[],"tisb":[],"messages":111,"seen":0.0,"rssi":-28.1},
+    {"hex":"aa1848","flight":"WIS700  ","alt_baro":6900,"alt_geom":6850,"gs":184.4,"track":130.6,"geom_rate":64,"squawk":"2461","emergency":"none","category":"A1","lat":44.857864,"lon":-92.711138,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1620,"seen":0.0,"rssi":-26.8}
+  ]
+}

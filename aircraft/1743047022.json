@@ -1,0 +1,7 @@
+{ "now" : 1743047022.3,
+  "messages" : 2244,
+  "aircraft" : [
+    {"hex":"aa1848","flight":"WIS700  ","alt_baro":5900,"alt_geom":5850,"gs":145.3,"track":130.8,"geom_rate":640,"squawk":"2461","emergency":"none","category":"A1","lat":44.976517,"lon":-92.906211,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":792,"seen":0.1,"rssi":-13.1},
+    {"hex":"a92dff","mlat":[],"tisb":[],"messages":326,"seen":228.5,"rssi":-22.6}
+  ]
+}

@@ -1,0 +1,8 @@
+{ "now" : 1743049094.9,
+  "messages" : 5239,
+  "aircraft" : [
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":122.2,"rssi":-32.7},
+    {"hex":"a8fc06","flight":"UAL657  ","alt_baro":3900,"alt_geom":4125,"gs":231.9,"track":262.6,"baro_rate":-384,"category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":260.9,"lat":44.802200,"lon":-92.934153,"nic":8,"rc":186,"seen_pos":19.4,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":113,"seen":9.3,"rssi":-29.7},
+    {"hex":"3c6711","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":11,"seen":254.1,"rssi":-30.1}
+  ]
+}

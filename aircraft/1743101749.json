@@ -1,0 +1,16 @@
+{ "now" : 1743101750.0,
+  "messages" : 341460,
+  "aircraft" : [
+    {"hex":"acb21b","flight":"EJA917  ","alt_baro":43000,"alt_geom":42900,"gs":359.7,"track":275.6,"baro_rate":0,"squawk":"5772","emergency":"none","category":"A2","nav_qnh":1013.6,"nav_altitude_mcp":43008,"nav_modes":["althold","tcas"],"lat":45.157719,"lon":-92.569394,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":188,"seen":0.0,"rssi":-16.8},
+    {"hex":"a30961","mlat":[],"tisb":[],"messages":23,"seen":48.7,"rssi":-21.1},
+    {"hex":"abc2e5","flight":"RPA4766 ","alt_baro":12425,"alt_geom":12475,"gs":275.1,"track":261.4,"baro_rate":-1216,"squawk":"1306","emergency":"none","category":"A3","nav_qnh":1018.4,"nav_altitude_mcp":8000,"nav_modes":["autopilot","vnav","tcas"],"lat":44.851359,"lon":-92.918277,"nic":8,"rc":186,"seen_pos":34.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":229,"seen":15.5,"rssi":-18.1},
+    {"hex":"aba0ff","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":91,"seen":249.5,"rssi":-19.8},
+    {"hex":"a9eed1","type":"adsr_icao","category":"A1","sil_type":"perhour","mlat":[],"tisb":[],"messages":58,"seen":266.0,"rssi":-18.2},
+    {"hex":"a21a7f","type":"adsr_icao","category":"A1","sil_type":"perhour","mlat":[],"tisb":[],"messages":38,"seen":267.6,"rssi":-18.1},
+    {"hex":"a8b2ff","type":"adsr_icao","category":"A1","sil_type":"perhour","mlat":[],"tisb":[],"messages":25,"seen":272.8,"rssi":-18.5},
+    {"hex":"ab905c","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":501,"seen":130.4,"rssi":-21.4},
+    {"hex":"a0efd3","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1150,"seen":248.3,"rssi":-19.4},
+    {"hex":"a66239","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1554,"seen":203.5,"rssi":-20.1},
+    {"hex":"a4f0d6","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3795,"seen":161.4,"rssi":-18.1}
+  ]
+}

@@ -1,0 +1,7 @@
+{ "now" : 1743052158.7,
+  "messages" : 11576,
+  "aircraft" : [
+    {"hex":"a79ea8","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":62.9,"rssi":-19.8},
+    {"hex":"c0208a","flight":"CJT1925 ","alt_baro":39000,"alt_geom":38700,"gs":531.2,"track":131.8,"baro_rate":0,"squawk":"7066","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":122.3,"lat":44.772995,"lon":-92.783334,"nic":8,"rc":186,"seen_pos":10.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":305,"seen":9.7,"rssi":-18.3}
+  ]
+}

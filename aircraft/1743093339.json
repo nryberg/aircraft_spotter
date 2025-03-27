@@ -1,0 +1,8 @@
+{ "now" : 1743093339.6,
+  "messages" : 208385,
+  "aircraft" : [
+    {"hex":"a63dff","flight":"DAL171  ","alt_baro":7825,"alt_geom":7550,"gs":269.7,"track":332.9,"baro_rate":2368,"squawk":"2403","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":16992,"nav_heading":338.9,"lat":44.985569,"lon":-93.047969,"nic":8,"rc":186,"seen_pos":5.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":328,"seen":0.4,"rssi":-17.7},
+    {"hex":"a6c80f","alt_baro":2725,"alt_geom":2775,"gs":96.9,"track":134.6,"geom_rate":-320,"lat":45.092056,"lon":-92.987627,"nic":8,"rc":186,"seen_pos":3.9,"version":0,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":12,"seen":3.9,"rssi":-20.1},
+    {"hex":"ac5c1f","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":457,"seen":146.1,"rssi":-21.2}
+  ]
+}

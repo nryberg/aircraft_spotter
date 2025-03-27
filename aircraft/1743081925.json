@@ -1,0 +1,8 @@
+{ "now" : 1743081925.5,
+  "messages" : 73681,
+  "aircraft" : [
+    {"hex":"ad1697","alt_baro":12600,"alt_geom":12650,"gs":270.3,"track":261.1,"baro_rate":-1664,"category":"A3","lat":44.843398,"lon":-92.990090,"nic":8,"rc":186,"seen_pos":43.5,"version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":118,"seen":43.5,"rssi":-17.5},
+    {"hex":"aa2ba4","squawk":"5467","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":298,"seen":37.1,"rssi":-21.4},
+    {"hex":"a35bef","flight":"N3151R  ","alt_baro":2600,"alt_geom":2550,"gs":130.1,"track":326.9,"geom_rate":-64,"squawk":"1200","emergency":"none","category":"A1","lat":45.153809,"lon":-93.009182,"nic":9,"rc":75,"seen_pos":36.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1358,"seen":35.9,"rssi":-19.5}
+  ]
+}

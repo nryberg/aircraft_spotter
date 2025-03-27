@@ -1,0 +1,8 @@
+{ "now" : 1743048163.8,
+  "messages" : 4946,
+  "aircraft" : [
+    {"hex":"ac1846","flight":"FDX13   ","alt_baro":35000,"alt_geom":34775,"gs":576.2,"track":127.5,"baro_rate":0,"squawk":"7442","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":125.2,"lat":44.756470,"lon":-92.970821,"nic":8,"rc":186,"seen_pos":4.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":74,"seen":2.2,"rssi":-27.4},
+    {"hex":"a8352b","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":262,"seen":151.6,"rssi":-28.4},
+    {"hex":"ab351a","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1260,"seen":153.9,"rssi":-29.3}
+  ]
+}

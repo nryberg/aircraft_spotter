@@ -1,0 +1,7 @@
+{ "now" : 1743041891.3,
+  "messages" : 100,
+  "aircraft" : [
+    {"hex":"aa276a","flight":"RPA3708 ","alt_baro":4600,"alt_geom":4775,"gs":214.3,"track":224.4,"baro_rate":-1472,"squawk":"3046","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":4000,"nav_modes":["autopilot","tcas"],"lat":44.820465,"lon":-92.823879,"nic":8,"rc":186,"seen_pos":1.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":90,"seen":1.9,"rssi":-29.2},
+    {"hex":"aa908e","alt_baro":36000,"alt_geom":35650,"gs":340.6,"track":326.5,"baro_rate":-64,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":32.1,"rssi":-31.5}
+  ]
+}

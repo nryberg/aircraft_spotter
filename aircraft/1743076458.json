@@ -1,0 +1,9 @@
+{ "now" : 1743076458.7,
+  "messages" : 24783,
+  "aircraft" : [
+    {"hex":"ab77b9","alt_baro":8125,"alt_geom":8125,"gs":313.9,"track":110.5,"baro_rate":3200,"nav_qnh":1020.0,"nav_altitude_mcp":16992,"nav_heading":120.2,"lat":44.765377,"lon":-92.998397,"nic":8,"rc":186,"seen_pos":21.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":15,"seen":20.6,"rssi":-18.6},
+    {"hex":"ac912e","flight":"MTN8553 ","alt_baro":10800,"alt_geom":10750,"gs":199.8,"track":21.4,"geom_rate":64,"squawk":"4265","emergency":"none","category":"A2","lat":45.088898,"lon":-92.977818,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":486,"seen":0.1,"rssi":-5.6},
+    {"hex":"a54a20","flight":"N44VA   ","alt_baro":3725,"alt_geom":3750,"gs":100.0,"track":73.7,"category":"A1","lat":44.879883,"lon":-92.678768,"nic":8,"rc":186,"seen_pos":63.5,"version":2,"nac_v":4,"sil_type":"perhour","mlat":[],"tisb":[],"messages":244,"seen":62.9,"rssi":-18.1},
+    {"hex":"a4d5f0","category":"A4","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":315,"seen":281.9,"rssi":-19.3}
+  ]
+}

@@ -1,0 +1,7 @@
+{ "now" : 1743050596.8,
+  "messages" : 10829,
+  "aircraft" : [
+    {"hex":"a4b7d7","flight":"ASA386  ","alt_baro":5125,"alt_geom":5150,"gs":224.2,"track":133.7,"baro_rate":-640,"squawk":"6652","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":4992,"nav_heading":220.1,"lat":44.843903,"lon":-92.821067,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":444,"seen":0.1,"rssi":-12.7},
+    {"hex":"a39630","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":191,"seen":233.2,"rssi":-18.1}
+  ]
+}

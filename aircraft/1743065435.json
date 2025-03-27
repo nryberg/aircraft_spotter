@@ -1,0 +1,6 @@
+{ "now" : 1743065435.1,
+  "messages" : 14437,
+  "aircraft" : [
+    {"hex":"a2b112","flight":"UAL1802 ","alt_baro":35000,"alt_geom":34800,"gs":543.2,"track":113.5,"baro_rate":0,"squawk":"6622","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":108.3,"lat":45.256256,"lon":-92.823879,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":722,"seen":0.1,"rssi":-16.9}
+  ]
+}

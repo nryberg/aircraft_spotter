@@ -1,0 +1,15 @@
+{ "now" : 1743104873.8,
+  "messages" : 400371,
+  "aircraft" : [
+    {"hex":"a0d7e9","alt_baro":5400,"nav_qnh":1017.6,"nav_altitude_mcp":5504,"nav_heading":40.1,"version":2,"nic_baro":1,"nac_p":10,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":5,"seen":0.1,"rssi":-21.0},
+    {"hex":"a02ac5","flight":"N11KK   ","alt_baro":1800,"alt_geom":1850,"gs":136.4,"track":154.4,"baro_rate":-64,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1018.4,"nav_altitude_mcp":4000,"lat":44.977753,"lon":-92.952053,"nic":9,"rc":75,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":78,"seen":0.7,"rssi":-14.5},
+    {"hex":"a9ed17","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":91.3,"rssi":-19.8},
+    {"hex":"a75bec","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":6,"seen":95.5,"rssi":-20.8},
+    {"hex":"a86927","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":8,"seen":135.2,"rssi":-19.7},
+    {"hex":"a6f2c5","version":0,"mlat":[],"tisb":[],"messages":12,"seen":250.9,"rssi":-20.7},
+    {"hex":"a00037","alt_baro":12875,"alt_geom":12825,"gs":347.1,"track":21.5,"baro_rate":-64,"category":"A3","nav_qnh":1018.4,"nav_altitude_mcp":13024,"nav_modes":["autopilot","althold","tcas"],"lat":45.365524,"lon":-92.627367,"nic":8,"rc":186,"seen_pos":41.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2274,"seen":11.0,"rssi":-21.6},
+    {"hex":"a68d19","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":503,"seen":132.8,"rssi":-19.2},
+    {"hex":"a9e624","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":600,"seen":231.5,"rssi":-21.4},
+    {"hex":"a54e8f","flight":"N441CJ  ","alt_baro":8400,"alt_geom":8325,"gs":220.0,"track":180.3,"baro_rate":0,"squawk":"4556","emergency":"none","category":"A1","nav_qnh":1017.6,"nav_altitude_mcp":8512,"nav_heading":184.9,"nav_modes":["autopilot","althold"],"lat":44.776794,"lon":-92.771040,"nic":9,"rc":75,"seen_pos":47.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":4341,"seen":32.3,"rssi":-19.3}
+  ]
+}

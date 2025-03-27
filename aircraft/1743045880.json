@@ -1,0 +1,8 @@
+{ "now" : 1743045880.9,
+  "messages" : 219,
+  "aircraft" : [
+    {"hex":"c0816e","alt_baro":37000,"alt_geom":36500,"gs":545.9,"track":129.2,"baro_rate":0,"lat":45.507980,"lon":-92.526202,"nic":8,"rc":186,"seen_pos":43.4,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":12,"seen":4.0,"rssi":-30.3},
+    {"hex":"aa908e","flight":"ENY3377 ","alt_baro":36000,"alt_geom":35625,"gs":338.4,"track":326.5,"baro_rate":0,"squawk":"3120","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"lat":45.132019,"lon":-92.581853,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":81,"seen":0.3,"rssi":-26.8},
+    {"hex":"aa276a","flight":"RPA3708 ","gs":211.7,"track":265.4,"baro_rate":0,"squawk":"3046","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":3008,"nav_modes":["autopilot","vnav","tcas"],"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":18,"seen":6.2,"rssi":-29.0}
+  ]
+}

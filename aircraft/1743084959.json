@@ -1,0 +1,12 @@
+{ "now" : 1743084959.2,
+  "messages" : 91388,
+  "aircraft" : [
+    {"hex":"aaee9c","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":84.1,"rssi":-17.7},
+    {"hex":"ade191","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":31,"seen":147.1,"rssi":-19.2},
+    {"hex":"a983f3","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":444,"seen":107.5,"rssi":-17.7},
+    {"hex":"adc180","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":65,"seen":292.5,"rssi":-17.8},
+    {"hex":"ac144e","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":503,"seen":224.9,"rssi":-17.7},
+    {"hex":"a3dc47","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":299,"seen":206.6,"rssi":-19.1},
+    {"hex":"ac0cf8","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1193,"seen":223.6,"rssi":-18.2}
+  ]
+}

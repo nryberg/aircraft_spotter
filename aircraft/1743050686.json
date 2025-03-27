@@ -1,0 +1,7 @@
+{ "now" : 1743050686.9,
+  "messages" : 10991,
+  "aircraft" : [
+    {"hex":"ab704b","flight":"SCX618  ","alt_baro":3800,"alt_geom":3875,"gs":174.3,"track":301.9,"baro_rate":-192,"category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":300.9,"version":0,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":14,"seen":1.5,"rssi":-18.9},
+    {"hex":"a4b7d7","flight":"ASA386  ","alt_baro":4800,"alt_geom":4825,"gs":223.1,"track":221.5,"baro_rate":0,"squawk":"6652","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":4992,"nav_heading":270.0,"lat":44.786545,"lon":-92.846048,"nic":8,"rc":186,"seen_pos":24.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":591,"seen":23.1,"rssi":-18.3}
+  ]
+}

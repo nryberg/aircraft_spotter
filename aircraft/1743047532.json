@@ -1,0 +1,8 @@
+{ "now" : 1743047533.0,
+  "messages" : 3288,
+  "aircraft" : [
+    {"hex":"a0642c","flight":"N124SP  ","alt_baro":1900,"alt_geom":1950,"gs":150.4,"track":355.8,"baro_rate":192,"category":"A1","nav_qnh":1020.8,"nav_altitude_mcp":2816,"nav_heading":350.9,"nav_modes":["autopilot"],"lat":44.947768,"lon":-93.024255,"nic":8,"rc":186,"seen_pos":2.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":24,"seen":1.8,"rssi":-27.3},
+    {"hex":"aaf960","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":148,"seen":122.5,"rssi":-30.1},
+    {"hex":"aa1848","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1638,"seen":96.6,"rssi":-31.5}
+  ]
+}

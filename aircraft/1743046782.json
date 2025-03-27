@@ -1,0 +1,6 @@
+{ "now" : 1743046782.0,
+  "messages" : 1438,
+  "aircraft" : [
+    {"hex":"a92dff","flight":"N69066  ","alt_baro":900,"squawk":"1200","mlat":[],"tisb":[],"messages":322,"seen":2.7,"rssi":-20.3}
+  ]
+}

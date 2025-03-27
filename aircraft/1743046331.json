@@ -1,0 +1,6 @@
+{ "now" : 1743046331.5,
+  "messages" : 1001,
+  "aircraft" : [
+    {"hex":"aa908e","gs":346.4,"track":304.1,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":830,"seen":25.9,"rssi":-30.6}
+  ]
+}

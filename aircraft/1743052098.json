@@ -1,0 +1,7 @@
+{ "now" : 1743052098.6,
+  "messages" : 11549,
+  "aircraft" : [
+    {"hex":"a79ea8","alt_baro":3550,"alt_geom":3650,"gs":223.7,"track":324.5,"baro_rate":-1280,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":2.9,"rssi":-19.8},
+    {"hex":"c0208a","flight":"CJT1925 ","alt_baro":39000,"alt_geom":38700,"gs":532.6,"track":131.8,"baro_rate":0,"squawk":"7066","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":122.3,"lat":44.855484,"lon":-92.912685,"nic":8,"rc":186,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":281,"seen":0.3,"rssi":-16.8}
+  ]
+}

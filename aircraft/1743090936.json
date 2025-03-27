@@ -1,0 +1,12 @@
+{ "now" : 1743090936.6,
+  "messages" : 173334,
+  "aircraft" : [
+    {"hex":"aa3b0a","flight":"N75866  ","alt_baro":3850,"alt_geom":3850,"gs":99.9,"track":302.7,"geom_rate":0,"squawk":"4511","emergency":"none","category":"A1","lat":45.037894,"lon":-92.846598,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":809,"seen":0.1,"rssi":-7.6},
+    {"hex":"c060bd","flight":"POE441  ","alt_baro":36000,"alt_geom":36025,"gs":370.1,"track":274.5,"baro_rate":0,"squawk":"0557","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"lat":45.138819,"lon":-93.244517,"nic":8,"rc":186,"seen_pos":4.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1345,"seen":0.1,"rssi":-19.1},
+    {"hex":"c00b7e","flight":"JZA716  ","alt_baro":16450,"alt_geom":15350,"gs":350.3,"track":51.7,"baro_rate":2240,"squawk":"3667","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":33024,"nav_modes":["autopilot","vnav","tcas"],"lat":45.155857,"lon":-92.553048,"nic":8,"rc":186,"seen_pos":5.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":866,"seen":4.9,"rssi":-20.9},
+    {"hex":"a4000f","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":39,"seen":222.1,"rssi":-18.7},
+    {"hex":"a3dc47","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":102,"seen":268.1,"rssi":-20.1},
+    {"hex":"a5ea3b","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":67,"seen":170.3,"rssi":-19.5},
+    {"hex":"ab729b","flight":"CAP2165 ","alt_baro":925,"alt_geom":1025,"gs":60.8,"track":43.7,"baro_rate":-768,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1020.8,"nav_altitude_mcp":1792,"nav_modes":["althold"],"lat":44.990084,"lon":-92.863747,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1935,"seen":0.1,"rssi":-8.8}
+  ]
+}

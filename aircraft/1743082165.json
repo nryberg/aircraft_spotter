@@ -1,0 +1,10 @@
+{ "now" : 1743082165.8,
+  "messages" : 73735,
+  "aircraft" : [
+    {"hex":"aa0b10","flight":"RPA3421 ","alt_baro":10900,"alt_geom":10950,"gs":348.2,"track":111.0,"baro_rate":2048,"category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":23008,"nav_modes":["autopilot","vnav","tcas"],"lat":44.711929,"lon":-92.766789,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":22,"seen":0.1,"rssi":-16.7},
+    {"hex":"ab4f61","flight":"N828JF  ","alt_baro":2700,"alt_geom":2825,"gs":223.3,"track":2.8,"geom_rate":1856,"category":"A2","nav_qnh":1020.8,"nav_altitude_mcp":0,"nav_heading":9.8,"lat":44.952393,"lon":-92.990178,"nic":8,"rc":186,"seen_pos":5.5,"version":0,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":3.2,"rssi":-17.7},
+    {"hex":"ad1697","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":118,"seen":283.8,"rssi":-17.5},
+    {"hex":"aa2ba4","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":298,"seen":277.4,"rssi":-21.4},
+    {"hex":"a35bef","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1358,"seen":276.2,"rssi":-19.5}
+  ]
+}

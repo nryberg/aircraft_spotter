@@ -1,0 +1,8 @@
+{ "now" : 1743093399.6,
+  "messages" : 208729,
+  "aircraft" : [
+    {"hex":"a63dff","flight":"DAL171  ","alt_baro":10075,"alt_geom":10050,"gs":268.2,"track":301.0,"baro_rate":2048,"squawk":"2403","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":16992,"nav_heading":301.6,"lat":45.026230,"lon":-93.137120,"nic":8,"rc":186,"seen_pos":4.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":366,"seen":4.0,"rssi":-18.0},
+    {"hex":"a6c80f","flight":"N536PU  ","alt_baro":2600,"alt_geom":2600,"gs":102.4,"track":144.1,"geom_rate":-64,"squawk":"1200","emergency":"none","category":"A1","lat":45.071686,"lon":-92.957807,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":311,"seen":0.1,"rssi":-15.0},
+    {"hex":"ac5c1f","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":457,"seen":206.2,"rssi":-21.2}
+  ]
+}

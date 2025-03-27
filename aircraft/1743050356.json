@@ -1,0 +1,7 @@
+{ "now" : 1743050356.5,
+  "messages" : 10362,
+  "aircraft" : [
+    {"hex":"a39630","alt_baro":3825,"alt_geom":4100,"gs":238.2,"track":201.9,"baro_rate":-896,"category":"A3","lat":44.838836,"lon":-92.908831,"nic":8,"rc":186,"seen_pos":58.6,"version":2,"nac_v":1,"sil_type":"perhour","mlat":[],"tisb":[],"messages":190,"seen":28.2,"rssi":-17.7},
+    {"hex":"ab8ca5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":285,"seen":121.0,"rssi":-18.1}
+  ]
+}

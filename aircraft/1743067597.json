@@ -1,0 +1,6 @@
+{ "now" : 1743067597.8,
+  "messages" : 14978,
+  "aircraft" : [
+    {"hex":"a12778","mlat":[],"tisb":[],"messages":8,"seen":204.4,"rssi":-20.4}
+  ]
+}

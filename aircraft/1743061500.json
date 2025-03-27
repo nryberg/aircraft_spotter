@@ -1,0 +1,6 @@
+{ "now" : 1743061500.2,
+  "messages" : 12860,
+  "aircraft" : [
+    {"hex":"a29cbf","flight":"ASA22   ","alt_baro":33000,"alt_geom":32800,"gs":541.1,"track":108.5,"baro_rate":0,"squawk":"6627","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":94.2,"lat":44.768263,"lon":-92.632967,"nic":8,"rc":186,"seen_pos":3.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":275,"seen":3.0,"rssi":-19.0}
+  ]
+}

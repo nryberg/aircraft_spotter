@@ -1,0 +1,9 @@
+{ "now" : 1743047893.4,
+  "messages" : 4384,
+  "aircraft" : [
+    {"hex":"a8352b","flight":"NKS323  ","alt_baro":5550,"alt_geom":5625,"gs":260.3,"track":226.2,"baro_rate":-704,"squawk":"7421","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":6016,"nav_heading":227.1,"lat":44.862350,"lon":-92.771563,"nic":8,"rc":186,"seen_pos":4.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":175,"seen":4.2,"rssi":-27.8},
+    {"hex":"ab351a","flight":"TSU1015 ","alt_baro":33000,"alt_geom":32725,"gs":548.3,"track":141.8,"geom_rate":0,"squawk":"3650","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":139.9,"lat":45.078347,"lon":-92.634106,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":875,"seen":0.0,"rssi":-26.1},
+    {"hex":"c05416","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":15,"seen":213.0,"rssi":-30.6},
+    {"hex":"a0642c","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":42,"seen":259.4,"rssi":-26.7}
+  ]
+}

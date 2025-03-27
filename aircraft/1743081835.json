@@ -1,0 +1,8 @@
+{ "now" : 1743081835.4,
+  "messages" : 73541,
+  "aircraft" : [
+    {"hex":"ad1697","flight":"SWA3574 ","alt_baro":13900,"alt_geom":13950,"gs":264.2,"track":261.1,"baro_rate":-1600,"squawk":"1377","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":265.8,"lat":44.852417,"lon":-92.907976,"nic":8,"rc":186,"seen_pos":1.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":78,"seen":0.2,"rssi":-14.2},
+    {"hex":"aa2ba4","flight":"UAL2232 ","alt_baro":10600,"alt_geom":10625,"gs":273.2,"track":261.2,"baro_rate":-1664,"category":"A3","lat":44.844003,"lon":-92.983257,"nic":8,"rc":186,"seen_pos":54.3,"version":2,"nac_v":1,"sil_type":"perhour","mlat":[],"tisb":[],"messages":296,"seen":27.1,"rssi":-20.9},
+    {"hex":"a35bef","flight":"N3151R  ","alt_baro":2575,"alt_geom":2550,"gs":128.8,"track":321.6,"geom_rate":192,"squawk":"1200","emergency":"none","category":"A1","lat":45.124853,"lon":-92.980376,"nic":9,"rc":75,"seen_pos":5.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1265,"seen":5.3,"rssi":-18.4}
+  ]
+}

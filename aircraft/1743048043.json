@@ -1,0 +1,8 @@
+{ "now" : 1743048043.6,
+  "messages" : 4870,
+  "aircraft" : [
+    {"hex":"ac1846","alt_baro":35000,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":6,"seen":24.0,"rssi":-31.8},
+    {"hex":"a8352b","alt_baro":3825,"category":"A3","lat":44.794658,"lon":-92.930067,"nic":8,"rc":186,"seen_pos":31.5,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":262,"seen":31.5,"rssi":-28.4},
+    {"hex":"ab351a","flight":"TSU1015 ","alt_baro":33000,"alt_geom":32750,"gs":560.1,"track":142.1,"geom_rate":0,"squawk":"3650","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":139.9,"lat":44.846890,"lon":-92.379277,"nic":8,"rc":186,"seen_pos":36.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1260,"seen":33.7,"rssi":-29.3}
+  ]
+}

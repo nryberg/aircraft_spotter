@@ -1,0 +1,8 @@
+{ "now" : 1743076068.2,
+  "messages" : 23797,
+  "aircraft" : [
+    {"hex":"a95355","flight":"N70MN   ","alt_baro":3825,"alt_geom":3850,"gs":199.0,"track":334.1,"baro_rate":64,"squawk":"4546","emergency":"none","category":"A1","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":329.8,"nav_modes":["althold"],"lat":45.027466,"lon":-93.029872,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":93,"seen":0.3,"rssi":-18.6},
+    {"hex":"a4d5f0","flight":"UPS496  ","alt_baro":9825,"alt_geom":9750,"gs":268.0,"track":359.8,"baro_rate":2240,"squawk":"3610","emergency":"none","category":"A4","nav_qnh":1020.0,"nav_altitude_mcp":16992,"nav_heading":298.1,"nav_modes":["vnav","tcas"],"lat":44.983154,"lon":-93.037785,"nic":8,"rc":186,"seen_pos":10.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":152,"seen":0.1,"rssi":-15.8},
+    {"hex":"ab0d76","flight":"DAL2059 ","alt_baro":11250,"alt_geom":11450,"gs":288.7,"track":260.8,"baro_rate":-2048,"squawk":"1374","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":8000,"nav_heading":265.8,"lat":44.837585,"lon":-93.042755,"nic":8,"rc":186,"seen_pos":4.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":675,"seen":4.5,"rssi":-17.3}
+  ]
+}

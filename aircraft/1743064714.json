@@ -1,0 +1,6 @@
+{ "now" : 1743064714.2,
+  "messages" : 13220,
+  "aircraft" : [
+    {"hex":"aace5c","flight":"AAL136  ","alt_baro":35000,"alt_geom":34925,"gs":513.7,"track":74.1,"baro_rate":0,"squawk":"7232","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":57.7,"lat":44.929092,"lon":-93.075649,"nic":8,"rc":186,"seen_pos":2.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":91,"seen":0.2,"rssi":-16.2}
+  ]
+}

@@ -1,0 +1,9 @@
+{ "now" : 1743047713.2,
+  "messages" : 3335,
+  "aircraft" : [
+    {"hex":"ab351a","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":139.9,"version":0,"nic_baro":1,"nac_p":9,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":12.7,"rssi":-30.5},
+    {"hex":"c05416","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":15,"seen":32.8,"rssi":-30.6},
+    {"hex":"a0642c","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":42,"seen":79.2,"rssi":-26.7},
+    {"hex":"aa1848","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1638,"seen":276.8,"rssi":-31.5}
+  ]
+}

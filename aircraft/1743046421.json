@@ -1,0 +1,6 @@
+{ "now" : 1743046421.6,
+  "messages" : 1099,
+  "aircraft" : [
+    {"hex":"aa908e","flight":"ENY3377 ","alt_baro":36000,"alt_geom":35650,"gs":347.2,"track":304.0,"baro_rate":64,"squawk":"3120","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_modes":["autopilot","vnav","tcas"],"lat":45.657578,"lon":-93.464043,"nic":8,"rc":186,"seen_pos":20.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":925,"seen":15.5,"rssi":-29.5}
+  ]
+}

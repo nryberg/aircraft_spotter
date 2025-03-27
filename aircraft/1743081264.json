@@ -1,0 +1,8 @@
+{ "now" : 1743081264.6,
+  "messages" : 71689,
+  "aircraft" : [
+    {"hex":"a80fe5","flight":"N61879  ","alt_baro":3050,"alt_geom":3075,"gs":84.7,"track":78.4,"baro_rate":640,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1021.6,"nav_heading":319.9,"lat":45.016712,"lon":-92.819534,"nic":9,"rc":75,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1192,"seen":0.6,"rssi":-15.3},
+    {"hex":"c07ee8","alt_baro":37000,"alt_geom":36975,"gs":497.4,"track":154.8,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":158.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1087,"seen":25.5,"rssi":-18.3},
+    {"hex":"a6ee8d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3425,"seen":122.9,"rssi":-18.5}
+  ]
+}

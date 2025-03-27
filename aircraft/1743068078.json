@@ -1,0 +1,6 @@
+{ "now" : 1743068078.4,
+  "messages" : 15153,
+  "aircraft" : [
+    {"hex":"a1270a","flight":"UAL341  ","alt_baro":35000,"alt_geom":34775,"gs":522.0,"track":105.1,"baro_rate":0,"category":"A3","lat":45.467651,"lon":-92.489253,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":149,"seen":0.1,"rssi":-18.9}
+  ]
+}

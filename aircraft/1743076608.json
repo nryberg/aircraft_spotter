@@ -1,0 +1,9 @@
+{ "now" : 1743076608.9,
+  "messages" : 25718,
+  "aircraft" : [
+    {"hex":"ababb7","flight":"GTI8422 ","alt_baro":35000,"alt_geom":34975,"gs":561.4,"track":147.2,"baro_rate":0,"squawk":"3413","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":149.8,"lat":45.000884,"lon":-93.241369,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":109,"seen":0.5,"rssi":-17.9},
+    {"hex":"ab77b9","flight":"SCX309  ","alt_baro":13000,"alt_geom":12950,"gs":398.6,"track":110.3,"baro_rate":2240,"category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":23008,"nav_heading":110.4,"lat":44.691696,"lon":-92.717612,"nic":8,"rc":186,"seen_pos":42.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":71,"seen":40.3,"rssi":-18.8},
+    {"hex":"ac912e","flight":"MTN8553 ","alt_baro":10800,"alt_geom":10725,"gs":248.3,"track":17.3,"geom_rate":0,"squawk":"4265","emergency":"none","category":"A2","lat":45.243748,"lon":-92.909970,"nic":9,"rc":75,"seen_pos":0.5,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":1248,"seen":0.0,"rssi":-16.4},
+    {"hex":"a54a20","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":245,"seen":120.8,"rssi":-18.5}
+  ]
+}

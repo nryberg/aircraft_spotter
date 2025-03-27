@@ -1,0 +1,9 @@
+{ "now" : 1743093279.5,
+  "messages" : 208146,
+  "aircraft" : [
+    {"hex":"a63dff","flight":"DAL171  ","alt_baro":5525,"alt_geom":5550,"gs":272.0,"track":0.2,"baro_rate":3584,"squawk":"2403","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":16992,"nav_heading":0.0,"lat":44.916439,"lon":-93.037921,"nic":8,"rc":186,"seen_pos":1.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":98,"seen":1.1,"rssi":-14.4},
+    {"hex":"a6c80f","version":0,"mlat":[],"tisb":[],"messages":6,"seen":77.6,"rssi":-20.3},
+    {"hex":"ac5c1f","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":457,"seen":86.0,"rssi":-21.2},
+    {"hex":"aa3b0a","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3456,"seen":295.3,"rssi":-20.0}
+  ]
+}

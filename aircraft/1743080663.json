@@ -1,0 +1,11 @@
+{ "now" : 1743080663.9,
+  "messages" : 65652,
+  "aircraft" : [
+    {"hex":"a68871","alt_baro":1775,"alt_geom":1875,"gs":93.8,"track":338.1,"baro_rate":384,"lat":44.933942,"lon":-93.039394,"nic":8,"rc":186,"seen_pos":16.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":10,"seen":16.4,"rssi":-17.4},
+    {"hex":"a3b4c8","flight":"DAL2538 ","alt_baro":15575,"alt_geom":15875,"gs":283.3,"track":261.3,"baro_rate":-2112,"squawk":"5650","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.860657,"lon":-92.833165,"nic":8,"rc":186,"seen_pos":4.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":153,"seen":3.9,"rssi":-16.5},
+    {"hex":"a046f2","flight":"RPA4435 ","alt_baro":11975,"alt_geom":12000,"gs":258.9,"track":299.6,"baro_rate":-1216,"squawk":"1772","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_modes":["autopilot","tcas"],"lat":44.953583,"lon":-92.999137,"nic":8,"rc":186,"seen_pos":9.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":600,"seen":3.6,"rssi":-17.7},
+    {"hex":"a75238","category":"A5","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":239.4,"rssi":-18.0},
+    {"hex":"a9b2e0","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1239,"seen":217.0,"rssi":-17.2},
+    {"hex":"acfc05","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":450,"seen":178.2,"rssi":-18.1}
+  ]
+}

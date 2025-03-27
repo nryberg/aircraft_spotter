@@ -1,0 +1,6 @@
+{ "now" : 1743066967.0,
+  "messages" : 14833,
+  "aircraft" : [
+    {"hex":"a63df3","flight":"DAL452  ","alt_baro":35000,"alt_geom":34750,"gs":524.9,"track":105.8,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":45.851487,"lon":-92.658417,"nic":8,"rc":186,"seen_pos":27.0,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":22,"seen":26.0,"rssi":-20.5}
+  ]
+}

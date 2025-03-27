@@ -1,0 +1,9 @@
+{ "now" : 1743080814.1,
+  "messages" : 67048,
+  "aircraft" : [
+    {"hex":"a6ee8d","flight":"N546DM  ","alt_baro":8875,"alt_geom":8875,"gs":161.3,"track":137.0,"baro_rate":1280,"squawk":"2605","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":12000,"nav_heading":139.9,"nav_modes":["autopilot","lnav"],"lat":45.072098,"lon":-92.936881,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1102,"seen":0.1,"rssi":-4.6},
+    {"hex":"a68871","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":10,"seen":166.6,"rssi":-17.4},
+    {"hex":"a3b4c8","alt_baro":12700,"alt_geom":12775,"gs":284.3,"track":261.3,"baro_rate":-2176,"squawk":"5650","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.843631,"lon":-92.989420,"nic":8,"rc":186,"seen_pos":68.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":360,"seen":45.2,"rssi":-17.5},
+    {"hex":"a046f2","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":679,"seen":19.7,"rssi":-18.7}
+  ]
+}

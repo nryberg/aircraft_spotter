@@ -1,0 +1,8 @@
+{ "now" : 1743111151.5,
+  "messages" : 515005,
+  "aircraft" : [
+    {"hex":"a39100","flight":"DAL2462 ","alt_baro":12925,"alt_geom":13025,"gs":350.1,"track":268.7,"baro_rate":-1088,"squawk":"0734","emergency":"none","category":"A3","nav_qnh":1016.0,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.864812,"lon":-92.761253,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":174,"seen":0.6,"rssi":-17.0},
+    {"hex":"a51548","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2227,"seen":194.3,"rssi":-14.8},
+    {"hex":"ab6e3c","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":659,"seen":153.4,"rssi":-20.5}
+  ]
+}

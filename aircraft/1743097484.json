@@ -1,0 +1,17 @@
+{ "now" : 1743097484.7,
+  "messages" : 261938,
+  "aircraft" : [
+    {"hex":"a201aa","type":"adsr_icao","alt_baro":2000,"nic_baro":0,"nac_p":9,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":8,"seen":60.3,"rssi":-18.9},
+    {"hex":"ad51d2","flight":"N9576   ","alt_baro":1550,"alt_geom":1650,"gs":81.8,"track":215.0,"geom_rate":384,"squawk":"1200","emergency":"none","category":"A1","lat":45.021973,"lon":-92.844347,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":524,"seen":0.4,"rssi":-14.8},
+    {"hex":"a7d6a9","flight":"N604FS  ","alt_baro":37000,"alt_geom":36950,"gs":541.7,"track":99.7,"geom_rate":-64,"squawk":"0564","emergency":"none","category":"A2","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":94.2,"lat":45.176386,"lon":-92.602554,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1136,"seen":0.5,"rssi":-13.4},
+    {"hex":"a583a8","flight":"N4542T  ","alt_baro":2700,"alt_geom":2850,"gs":126.4,"track":184.5,"geom_rate":128,"squawk":"1200","emergency":"none","category":"A1","lat":44.906989,"lon":-92.799504,"nic":9,"rc":75,"seen_pos":12.2,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":540,"seen":12.2,"rssi":-19.1},
+    {"hex":"acdbec","alt_baro":35000,"category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1054,"seen":13.9,"rssi":-21.2},
+    {"hex":"a77c11","category":"A4","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":717,"seen":194.0,"rssi":-17.9},
+    {"hex":"86831e","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":45,"seen":296.8,"rssi":-21.7},
+    {"hex":"a809f5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":321,"seen":263.5,"rssi":-18.5},
+    {"hex":"a14c70","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":909,"seen":200.2,"rssi":-19.4},
+    {"hex":"acc83e","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":59,"seen":259.1,"rssi":-19.4},
+    {"hex":"a9e745","flight":"N737YU  ","alt_baro":1075,"alt_geom":1150,"gs":61.6,"track":57.6,"baro_rate":-384,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1020.0,"nav_altitude_mcp":2496,"nav_modes":[],"lat":44.988373,"lon":-92.866778,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2450,"seen":0.1,"rssi":-6.4},
+    {"hex":"a80fe5","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":8603,"seen":192.0,"rssi":-16.8}
+  ]
+}

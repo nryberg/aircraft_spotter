@@ -1,0 +1,13 @@
+{ "now" : 1743110941.3,
+  "messages" : 514746,
+  "aircraft" : [
+    {"hex":"a27007","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":147,"seen":111.8,"rssi":-19.0},
+    {"hex":"a424d5","category":"A1","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":24,"seen":157.3,"rssi":-20.6},
+    {"hex":"a7ef56","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":132,"seen":216.9,"rssi":-19.8},
+    {"hex":"c05eb1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":30,"seen":132.8,"rssi":-20.1},
+    {"hex":"a51548","flight":"N4267T  ","alt_baro":1125,"alt_geom":1075,"gs":72.1,"track":136.1,"geom_rate":-704,"squawk":"1200","emergency":"none","category":"A1","lat":45.006331,"lon":-92.866226,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2165,"seen":0.0,"rssi":-7.1},
+    {"hex":"ab6e3c","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":643,"seen":77.9,"rssi":-19.6},
+    {"hex":"a54e8f","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1602,"seen":155.7,"rssi":-20.4},
+    {"hex":"a3dc47","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1235,"seen":225.1,"rssi":-19.8}
+  ]
+}

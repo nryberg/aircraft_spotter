@@ -1,0 +1,14 @@
+{ "now" : 1743108628.4,
+  "messages" : 475920,
+  "aircraft" : [
+    {"hex":"a8f9a3","gs":280.0,"track":4.9,"geom_rate":1472,"squawk":"4206","emergency":"none","version":0,"nac_v":1,"mlat":[],"tisb":[],"messages":5,"seen":0.7,"rssi":-20.1},
+    {"hex":"acc9b2","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":73.5,"rssi":-20.5},
+    {"hex":"a54e8f","gs":228.0,"track":0.3,"baro_rate":0,"version":0,"nac_v":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":7.9,"rssi":-20.9},
+    {"hex":"acf703","flight":"N9341C  ","alt_baro":2500,"alt_geom":2450,"gs":96.1,"track":177.6,"geom_rate":384,"squawk":"1200","emergency":"none","category":"A1","lat":45.046738,"lon":-92.917459,"nic":9,"rc":75,"seen_pos":0.6,"version":2,"nic_baro":0,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":332,"seen":0.6,"rssi":-14.6},
+    {"hex":"a7e18a","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":109,"seen":153.6,"rssi":-20.2},
+    {"hex":"a6456d","alt_baro":35575,"alt_geom":35725,"gs":419.5,"track":290.1,"baro_rate":512,"category":"A5","lat":44.823334,"lon":-93.218056,"nic":8,"rc":186,"seen_pos":52.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":335,"seen":34.6,"rssi":-19.5},
+    {"hex":"ab97ca","flight":"SCX306  ","alt_baro":10125,"alt_geom":10200,"gs":265.9,"track":294.0,"baro_rate":-1600,"squawk":"7131","emergency":"none","category":"A3","nav_qnh":1016.8,"nav_altitude_mcp":8000,"nav_heading":293.2,"lat":44.907440,"lon":-92.932499,"nic":8,"rc":186,"seen_pos":1.9,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":799,"seen":1.9,"rssi":-15.0},
+    {"hex":"a24515","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1504,"seen":274.8,"rssi":-20.8},
+    {"hex":"a12ade","flight":"N1743V  ","alt_baro":1425,"alt_geom":1400,"gs":52.7,"track":33.4,"baro_rate":-832,"squawk":"1200","emergency":"none","category":"A1","lat":44.986127,"lon":-92.868570,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3349,"seen":0.1,"rssi":-3.3}
+  ]
+}

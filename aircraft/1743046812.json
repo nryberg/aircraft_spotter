@@ -1,0 +1,7 @@
+{ "now" : 1743046812.1,
+  "messages" : 1458,
+  "aircraft" : [
+    {"hex":"aa1848","alt_baro":3300,"alt_geom":3325,"gs":149.6,"track":142.1,"geom_rate":960,"lat":45.077091,"lon":-93.056678,"nic":8,"rc":186,"seen_pos":6.7,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":15,"seen":6.7,"rssi":-28.7},
+    {"hex":"a92dff","flight":"N69066  ","alt_baro":900,"squawk":"1200","mlat":[],"tisb":[],"messages":326,"seen":18.3,"rssi":-22.6}
+  ]
+}

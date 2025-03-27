@@ -1,0 +1,7 @@
+{ "now" : 1743050326.4,
+  "messages" : 10360,
+  "aircraft" : [
+    {"hex":"a39630","flight":"DAL1289 ","alt_baro":4050,"alt_geom":4100,"gs":238.2,"track":201.9,"baro_rate":-896,"category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":220.1,"lat":44.838836,"lon":-92.908831,"nic":8,"rc":186,"seen_pos":28.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":189,"seen":28.3,"rssi":-17.6},
+    {"hex":"ab8ca5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":285,"seen":91.0,"rssi":-18.1}
+  ]
+}

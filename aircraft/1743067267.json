@@ -1,0 +1,7 @@
+{ "now" : 1743067267.3,
+  "messages" : 14945,
+  "aircraft" : [
+    {"hex":"aa1848","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":31,"seen":182.8,"rssi":-19.7},
+    {"hex":"a63df3","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":79,"seen":178.5,"rssi":-19.7}
+  ]
+}

@@ -1,0 +1,9 @@
+{ "now" : 1743076729.0,
+  "messages" : 25929,
+  "aircraft" : [
+    {"hex":"ababb7","flight":"GTI8422 ","alt_baro":35000,"alt_geom":35000,"gs":562.0,"track":147.5,"baro_rate":0,"squawk":"3413","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":149.8,"lat":44.753998,"lon":-93.019671,"nic":8,"rc":186,"seen_pos":8.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":227,"seen":5.6,"rssi":-18.7},
+    {"hex":"ab77b9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":71,"seen":160.4,"rssi":-18.8},
+    {"hex":"ac912e","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1330,"seen":74.2,"rssi":-19.0},
+    {"hex":"a54a20","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":245,"seen":240.9,"rssi":-18.5}
+  ]
+}

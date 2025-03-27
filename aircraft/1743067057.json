@@ -1,0 +1,7 @@
+{ "now" : 1743067057.1,
+  "messages" : 14891,
+  "aircraft" : [
+    {"hex":"aa1848","alt_baro":3800,"alt_geom":3800,"gs":163.5,"track":336.6,"geom_rate":64,"lat":44.914390,"lon":-93.061836,"nic":8,"rc":186,"seen_pos":3.6,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":24,"seen":3.3,"rssi":-20.0},
+    {"hex":"a63df3","flight":"DAL452  ","alt_baro":35025,"alt_geom":34750,"gs":529.5,"track":106.0,"baro_rate":0,"squawk":"6664","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":45.773698,"lon":-92.268059,"nic":8,"rc":186,"seen_pos":0.7,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":48,"seen":0.0,"rssi":-17.0}
+  ]
+}

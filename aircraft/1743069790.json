@@ -1,0 +1,6 @@
+{ "now" : 1743069790.5,
+  "messages" : 16154,
+  "aircraft" : [
+    {"hex":"a0ec20","flight":"FDX1718 ","alt_baro":5925,"alt_geom":5950,"gs":241.7,"track":276.9,"baro_rate":-1472,"squawk":"6625","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":277.0,"lat":44.770591,"lon":-92.793944,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":62,"seen":0.1,"rssi":-15.9}
+  ]
+}

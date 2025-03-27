@@ -1,0 +1,8 @@
+{ "now" : 1743076548.8,
+  "messages" : 25334,
+  "aircraft" : [
+    {"hex":"ab77b9","flight":"SCX309  ","alt_baro":12200,"alt_geom":12150,"gs":391.1,"track":111.4,"baro_rate":1408,"squawk":"2420","emergency":"none","category":"A3","nav_qnh":1020.0,"nav_altitude_mcp":23008,"nav_heading":110.4,"lat":44.703276,"lon":-92.760449,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":50,"seen":0.2,"rssi":-17.8},
+    {"hex":"ac912e","flight":"MTN8553 ","alt_baro":10800,"alt_geom":10725,"gs":240.1,"track":16.7,"geom_rate":0,"squawk":"4265","emergency":"none","category":"A2","lat":45.178900,"lon":-92.938039,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":996,"seen":0.2,"rssi":-11.7},
+    {"hex":"a54a20","alt_baro":67700,"category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":245,"seen":60.7,"rssi":-18.5}
+  ]
+}

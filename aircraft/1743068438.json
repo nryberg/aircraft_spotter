@@ -1,0 +1,6 @@
+{ "now" : 1743068438.8,
+  "messages" : 15269,
+  "aircraft" : [
+    {"hex":"ad2095","flight":"JBU498  ","alt_baro":35000,"alt_geom":34800,"gs":530.5,"track":104.7,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"lat":45.559021,"lon":-92.982721,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":78,"seen":0.2,"rssi":-17.2}
+  ]
+}

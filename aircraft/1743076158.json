@@ -1,0 +1,9 @@
+{ "now" : 1743076158.3,
+  "messages" : 24072,
+  "aircraft" : [
+    {"hex":"a54a20","flight":"N44VA   ","alt_baro":2350,"alt_geom":2375,"gs":93.9,"track":75.8,"category":"A1","lat":44.854198,"lon":-92.847268,"nic":9,"rc":75,"seen_pos":9.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":4,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":53,"seen":9.7,"rssi":-18.1},
+    {"hex":"a95355","alt_baro":3825,"alt_geom":3850,"gs":202.4,"track":306.4,"baro_rate":0,"category":"A1","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":302.3,"nav_modes":["althold","lnav"],"lat":45.069363,"lon":-93.105781,"nic":9,"rc":75,"seen_pos":16.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":146,"seen":15.6,"rssi":-19.3},
+    {"hex":"a4d5f0","flight":"UPS496  ","alt_baro":14400,"alt_geom":14325,"gs":255.6,"track":299.3,"baro_rate":2944,"squawk":"3610","emergency":"none","category":"A4","nav_qnh":1020.0,"nav_altitude_mcp":32000,"nav_heading":298.1,"nav_modes":["vnav","tcas"],"lat":45.063583,"lon":-93.124891,"nic":8,"rc":186,"seen_pos":7.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":308,"seen":5.7,"rssi":-17.9},
+    {"hex":"ab0d76","alt_baro":9900,"squawk":"5525","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":686,"seen":22.6,"rssi":-19.6}
+  ]
+}

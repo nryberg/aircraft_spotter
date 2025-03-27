@@ -1,0 +1,9 @@
+{ "now" : 1743085139.4,
+  "messages" : 91844,
+  "aircraft" : [
+    {"hex":"a80fe5","flight":"N61879  ","alt_baro":2550,"alt_geom":2600,"gs":74.2,"track":86.1,"baro_rate":832,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1021.6,"nav_heading":319.9,"lat":45.016846,"lon":-92.813154,"nic":9,"rc":75,"seen_pos":1.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":323,"seen":1.1,"rssi":-16.5},
+    {"hex":"c07b0a","flight":"ACA193  ","alt_baro":34000,"alt_geom":34025,"gs":374.4,"track":277.7,"geom_rate":0,"squawk":"2213","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":282.7,"lat":45.089767,"lon":-92.772478,"nic":8,"rc":186,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":124,"seen":0.0,"rssi":-16.7},
+    {"hex":"aaee9c","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":264.3,"rssi":-17.7},
+    {"hex":"a983f3","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":444,"seen":287.7,"rssi":-17.7}
+  ]
+}

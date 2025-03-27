@@ -1,0 +1,10 @@
+{ "now" : 1743083517.4,
+  "messages" : 79498,
+  "aircraft" : [
+    {"hex":"a924d9","flight":"SKW4615 ","alt_baro":12075,"alt_geom":12000,"gs":310.3,"track":257.5,"geom_rate":-1536,"squawk":"5775","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":10016,"nav_heading":265.1,"lat":44.973450,"lon":-92.769274,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":236,"seen":0.2,"rssi":-7.2},
+    {"hex":"3c458a","alt_baro":33000,"category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":212,"seen":69.7,"rssi":-18.9},
+    {"hex":"a12ade","alt_baro":3250,"alt_geom":3275,"gs":111.3,"track":76.0,"baro_rate":-64,"category":"A1","nav_qnh":1021.6,"nav_altitude_mcp":3488,"lat":45.072156,"lon":-92.749463,"nic":9,"rc":75,"seen_pos":8.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1824,"seen":8.1,"rssi":-19.1},
+    {"hex":"a78c6e","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":84,"seen":167.9,"rssi":-20.1},
+    {"hex":"a9e624","flight":"N737ME  ","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1622,"seen":67.3,"rssi":-20.6}
+  ]
+}

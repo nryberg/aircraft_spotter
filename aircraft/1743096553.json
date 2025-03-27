@@ -1,0 +1,17 @@
+{ "now" : 1743096553.5,
+  "messages" : 247296,
+  "aircraft" : [
+    {"hex":"a9d7e7","type":"adsr_icao","alt_baro":2200,"lat":45.188919,"lon":-93.873073,"nic":8,"rc":186,"seen_pos":66.6,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":66.6,"rssi":-20.7},
+    {"hex":"a9b8c4","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":19,"seen":183.7,"rssi":-20.1},
+    {"hex":"a201aa","type":"adsr_icao","alt_baro":1700,"alt_geom":1775,"gs":87.0,"track":0.7,"geom_rate":0,"category":"A1","lat":45.196683,"lon":-93.361615,"nic":8,"rc":186,"seen_pos":17.9,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":35,"seen":17.9,"rssi":-20.8},
+    {"hex":"a6cdec","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":34,"seen":196.0,"rssi":-19.2},
+    {"hex":"a6b6b1","type":"adsr_icao","category":"A1","sil_type":"unknown","mlat":[],"tisb":[],"messages":17,"seen":221.7,"rssi":-19.2},
+    {"hex":"a69a6c","type":"adsr_icao","category":"A1","sil_type":"perhour","mlat":[],"tisb":[],"messages":15,"seen":157.6,"rssi":-19.6},
+    {"hex":"a37eff","squawk":"0636","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":355,"seen":32.9,"rssi":-18.0},
+    {"hex":"a789cb","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":166,"seen":199.3,"rssi":-19.9},
+    {"hex":"a35d73","flight":"DAL1044 ","alt_baro":9600,"alt_geom":9650,"gs":266.9,"track":289.2,"baro_rate":-2368,"squawk":"2670","emergency":"none","category":"A3","nav_altitude_mcp":6016,"nav_heading":289.7,"lat":44.965319,"lon":-93.061635,"nic":8,"rc":186,"seen_pos":4.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":996,"seen":0.4,"rssi":-17.7},
+    {"hex":"a61a4b","flight":"N4923D  ","alt_baro":2300,"alt_geom":2350,"gs":99.7,"track":223.8,"geom_rate":128,"category":"A1","lat":44.795288,"lon":-92.850952,"nic":8,"rc":186,"seen_pos":67.8,"version":2,"nic_baro":0,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":614,"seen":66.0,"rssi":-18.5},
+    {"hex":"acc83e","alt_baro":1725,"alt_geom":1800,"gs":92.4,"track":328.7,"baro_rate":0,"squawk":"5732","nav_qnh":1020.8,"nav_altitude_mcp":1888,"lat":44.936922,"lon":-93.036983,"nic":8,"rc":186,"seen_pos":11.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":91,"seen":11.4,"rssi":-18.2},
+    {"hex":"a80fe5","flight":"N61879  ","alt_baro":1850,"alt_geom":1900,"gs":85.7,"track":187.4,"baro_rate":512,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1020.0,"nav_heading":40.1,"lat":45.033843,"lon":-92.856244,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":5170,"seen":0.2,"rssi":-12.1}
+  ]
+}

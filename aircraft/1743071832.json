@@ -1,0 +1,6 @@
+{ "now" : 1743071833.0,
+  "messages" : 16410,
+  "aircraft" : [
+    {"hex":"a2dea7","flight":"UPS560  ","alt_baro":3825,"alt_geom":3850,"gs":210.4,"track":261.3,"baro_rate":-128,"squawk":"6756","emergency":"none","category":"A5","nav_qnh":1020.0,"nav_altitude_mcp":4000,"nav_heading":265.1,"lat":44.798056,"lon":-92.915329,"nic":8,"rc":186,"seen_pos":4.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":85,"seen":3.8,"rssi":-19.8}
+  ]
+}

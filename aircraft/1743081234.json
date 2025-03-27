@@ -1,0 +1,8 @@
+{ "now" : 1743081234.6,
+  "messages" : 71470,
+  "aircraft" : [
+    {"hex":"a80fe5","flight":"N61879  ","alt_baro":2800,"alt_geom":2850,"gs":66.6,"track":82.2,"baro_rate":832,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1021.6,"nav_heading":319.9,"lat":45.014617,"lon":-92.834607,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":983,"seen":0.1,"rssi":-12.1},
+    {"hex":"c07ee8","alt_baro":37000,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":158.9,"version":2,"nic_baro":1,"nac_p":10,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1078,"seen":15.7,"rssi":-14.6},
+    {"hex":"a6ee8d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3425,"seen":92.8,"rssi":-18.5}
+  ]
+}

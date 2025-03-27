@@ -1,0 +1,11 @@
+{ "now" : 1743102080.3,
+  "messages" : 345579,
+  "aircraft" : [
+    {"hex":"ab87f6","alt_baro":1650,"alt_geom":1750,"gs":142.1,"track":305.3,"geom_rate":-192,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":0.2,"rssi":-21.0},
+    {"hex":"a31a56","flight":"UAL649  ","alt_baro":38975,"alt_geom":39025,"gs":543.4,"track":92.3,"geom_rate":-64,"squawk":"3221","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":39008,"nav_heading":90.0,"nav_modes":["autopilot","vnav","lnav","tcas"],"lat":44.967600,"lon":-92.600410,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":450,"seen":0.7,"rssi":-16.1},
+    {"hex":"a583a8","flight":"N4542T  ","alt_baro":5000,"alt_geom":4900,"gs":113.4,"track":311.4,"geom_rate":640,"squawk":"1200","emergency":"none","category":"A1","version":2,"nic_baro":0,"nac_p":0,"nac_v":2,"sil":0,"sil_type":"perhour","gva":0,"sda":2,"mlat":[],"tisb":[],"messages":273,"seen":13.7,"rssi":-18.4},
+    {"hex":"acb21b","flight":"EJA917  ","alt_baro":43000,"alt_geom":42925,"gs":362.4,"track":275.1,"baro_rate":0,"squawk":"5772","emergency":"none","category":"A2","nav_qnh":1013.6,"nav_altitude_mcp":43008,"nav_modes":["althold","tcas"],"lat":45.206589,"lon":-93.296683,"nic":9,"rc":75,"seen_pos":20.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2331,"seen":1.1,"rssi":-17.1},
+    {"hex":"abc2e5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":237,"seen":130.5,"rssi":-20.5},
+    {"hex":"a4f0d6","flight":"N4172Y  ","gs":55.2,"track":42.1,"geom_rate":-128,"squawk":"1200","emergency":"none","category":"A1","lat":44.993995,"lon":-92.859326,"nic":10,"rc":25,"seen_pos":29.3,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":5009,"seen":25.1,"rssi":-19.1}
+  ]
+}

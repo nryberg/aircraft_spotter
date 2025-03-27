@@ -1,0 +1,11 @@
+{ "now" : 1743080513.7,
+  "messages" : 64977,
+  "aircraft" : [
+    {"hex":"a046f2","flight":"RPA4435 ","alt_baro":14925,"alt_geom":14975,"gs":312.8,"track":258.0,"baro_rate":-1408,"squawk":"1772","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":9024,"nav_modes":["autopilot","tcas"],"lat":44.980727,"lon":-92.744304,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":91,"seen":0.9,"rssi":-14.7},
+    {"hex":"a75238","category":"A5","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":89.3,"rssi":-18.0},
+    {"hex":"a68871","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":15,"seen":179.4,"rssi":-18.2},
+    {"hex":"a9b2e0","alt_baro":9025,"category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1239,"seen":66.8,"rssi":-17.2},
+    {"hex":"a78c6e","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":535,"seen":243.8,"rssi":-15.7},
+    {"hex":"acfc05","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":450,"seen":28.0,"rssi":-18.1}
+  ]
+}

@@ -1,0 +1,9 @@
+{ "now" : 1743081324.7,
+  "messages" : 71773,
+  "aircraft" : [
+    {"hex":"abf79c","flight":"N870PA  ","alt_baro":2275,"alt_geom":2325,"gs":86.1,"track":3.3,"baro_rate":768,"category":"A1","nav_qnh":1020.8,"nav_altitude_mcp":2496,"nav_heading":99.8,"nav_modes":[],"lat":44.938644,"lon":-93.009785,"nic":9,"rc":75,"seen_pos":18.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":24,"seen":18.7,"rssi":-17.5},
+    {"hex":"a80fe5","flight":"N61879  ","alt_baro":3425,"alt_geom":3425,"gs":99.7,"track":68.8,"baro_rate":-192,"squawk":"1200","emergency":"none","category":"A2","nav_qnh":1021.6,"nav_heading":319.9,"lat":45.024490,"lon":-92.783465,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1250,"seen":0.1,"rssi":-20.5},
+    {"hex":"c07ee8","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1087,"seen":85.6,"rssi":-18.3},
+    {"hex":"a6ee8d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3425,"seen":183.0,"rssi":-18.5}
+  ]
+}

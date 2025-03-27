@@ -1,0 +1,11 @@
+{ "now" : 1743086971.7,
+  "messages" : 111985,
+  "aircraft" : [
+    {"hex":"adb056","flight":"N981RD  ","alt_baro":1600,"alt_geom":1750,"gs":100.1,"track":357.7,"baro_rate":384,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1021.6,"nav_altitude_mcp":2496,"nav_heading":343.1,"lat":45.025864,"lon":-92.879399,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":574,"seen":0.1,"rssi":-9.2},
+    {"hex":"c00b7e","flight":"JZA721  ","alt_baro":8175,"alt_geom":8200,"gs":253.1,"track":301.4,"baro_rate":-1152,"squawk":"2233","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":6016,"nav_modes":["autopilot","vnav","tcas"],"lat":44.937341,"lon":-93.045959,"nic":8,"rc":186,"seen_pos":36.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":984,"seen":14.5,"rssi":-17.0},
+    {"hex":"ab52a2","flight":"DAL2258 ","alt_baro":10900,"alt_geom":10925,"gs":265.8,"track":260.3,"baro_rate":-1472,"category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":8000,"nav_heading":274.2,"lat":44.834381,"lon":-93.067409,"nic":8,"rc":186,"seen_pos":1.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":890,"seen":1.1,"rssi":-17.8},
+    {"hex":"a8e87b","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":19,"seen":220.9,"rssi":-20.4},
+    {"hex":"a35254","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1341,"seen":184.5,"rssi":-17.2},
+    {"hex":"a7a17b","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1376,"seen":239.9,"rssi":-14.9}
+  ]
+}

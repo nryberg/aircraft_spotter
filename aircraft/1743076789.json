@@ -1,0 +1,9 @@
+{ "now" : 1743076789.1,
+  "messages" : 26017,
+  "aircraft" : [
+    {"hex":"ab8f0d","flight":"DAL2752 ","alt_baro":20925,"alt_geom":20925,"gs":322.7,"track":273.7,"baro_rate":-2240,"squawk":"6610","emergency":"none","category":"A3","version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":14,"seen":13.2,"rssi":-20.2},
+    {"hex":"ababb7","flight":"GTI8422 ","alt_baro":35000,"alt_geom":35000,"gs":562.0,"track":147.5,"baro_rate":0,"squawk":"3413","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":149.8,"lat":44.669339,"lon":-92.944001,"nic":8,"rc":186,"seen_pos":29.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":300,"seen":22.5,"rssi":-18.9},
+    {"hex":"ab77b9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":71,"seen":220.5,"rssi":-18.8},
+    {"hex":"ac912e","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1330,"seen":134.3,"rssi":-19.0}
+  ]
+}

@@ -1,0 +1,6 @@
+{ "now" : 1743069159.7,
+  "messages" : 15672,
+  "aircraft" : [
+    {"hex":"a6ee8e","flight":"DAL377  ","alt_baro":7575,"alt_geom":7600,"gs":302.7,"track":135.5,"baro_rate":-1536,"squawk":"5777","emergency":"none","category":"A3","nav_qnh":1020.8,"nav_altitude_mcp":4000,"nav_heading":139.9,"lat":45.068253,"lon":-93.021044,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":210,"seen":0.1,"rssi":-12.8}
+  ]
+}

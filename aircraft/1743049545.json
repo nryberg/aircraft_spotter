@@ -1,0 +1,11 @@
+{ "now" : 1743049545.5,
+  "messages" : 6295,
+  "aircraft" : [
+    {"hex":"a77111","alt_baro":6750,"alt_geom":7175,"gs":271.1,"track":234.6,"geom_rate":-1664,"nav_qnh":1020.0,"nav_altitude_mcp":6016,"nav_heading":239.8,"lat":44.787955,"lon":-92.590429,"nic":8,"rc":186,"seen_pos":25.0,"version":0,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":16,"seen":25.0,"rssi":-18.4},
+    {"hex":"ad8895","gs":187.3,"track":329.9,"baro_rate":-320,"version":0,"nac_v":1,"mlat":[],"tisb":[],"messages":5,"seen":48.3,"rssi":-21.8},
+    {"hex":"a9cecf","flight":"AAL134  ","alt_baro":31000,"alt_geom":30825,"gs":518.0,"track":74.4,"baro_rate":0,"squawk":"6777","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":31008,"nav_heading":61.2,"lat":44.977844,"lon":-92.830287,"nic":8,"rc":186,"seen_pos":3.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":206,"seen":1.8,"rssi":-16.6},
+    {"hex":"a5cbf3","alt_baro":6325,"alt_geom":6400,"gs":227.3,"track":121.9,"baro_rate":-1216,"category":"A3","version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":38,"seen":4.5,"rssi":-19.0},
+    {"hex":"a26419","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":207.4,"rssi":-32.1},
+    {"hex":"ac7fa0","flight":"N904SH  ","alt_baro":11475,"alt_geom":11425,"gs":158.9,"track":349.1,"baro_rate":2048,"squawk":"4560","emergency":"none","category":"A1","nav_qnh":1020.8,"nav_altitude_mcp":20000,"nav_heading":340.3,"nav_modes":["autopilot"],"lat":45.160309,"lon":-93.070417,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":742,"seen":0.1,"rssi":-15.7}
+  ]
+}

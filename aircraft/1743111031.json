@@ -1,0 +1,12 @@
+{ "now" : 1743111031.4,
+  "messages" : 514835,
+  "aircraft" : [
+    {"hex":"a39100","alt_baro":19175,"alt_geom":19375,"gs":348.7,"track":273.6,"baro_rate":-4544,"version":0,"nac_v":2,"mlat":[],"tisb":[],"messages":8,"seen":8.4,"rssi":-19.3},
+    {"hex":"a27007","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":147,"seen":201.9,"rssi":-19.0},
+    {"hex":"a424d5","category":"A1","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":24,"seen":247.4,"rssi":-20.6},
+    {"hex":"c05eb1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":30,"seen":222.9,"rssi":-20.1},
+    {"hex":"a51548","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2227,"seen":74.2,"rssi":-14.8},
+    {"hex":"ab6e3c","alt_baro":3050,"alt_geom":3025,"gs":103.1,"track":357.2,"baro_rate":640,"squawk":"4331","category":"A1","version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":659,"seen":33.2,"rssi":-20.5},
+    {"hex":"a54e8f","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1602,"seen":245.8,"rssi":-20.4}
+  ]
+}
