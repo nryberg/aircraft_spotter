@@ -1,0 +1,8 @@
+{ "now" : 1743135421.5,
+  "messages" : 822244,
+  "aircraft" : [
+    {"hex":"ab704b","flight":"SCX352  ","alt_baro":15900,"alt_geom":16025,"gs":310.9,"track":289.0,"baro_rate":-1856,"squawk":"1077","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":8000,"nav_heading":289.7,"lat":44.871323,"lon":-92.653721,"nic":8,"rc":186,"seen_pos":1.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":133,"seen":1.0,"rssi":-19.5},
+    {"hex":"ae1465","alt_baro":36000,"mlat":[],"tisb":[],"messages":719,"seen":27.6,"rssi":-18.6},
+    {"hex":"a43887","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1623,"seen":101.7,"rssi":-20.6}
+  ]
+}

@@ -1,0 +1,14 @@
+{ "now" : 1743170685.0,
+  "messages" : 997588,
+  "aircraft" : [
+    {"hex":"abb68c","alt_baro":35000,"alt_geom":35275,"gs":493.0,"track":90.0,"baro_rate":0,"nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":90.0,"lat":44.672104,"lon":-92.810996,"nic":8,"rc":186,"seen_pos":1.8,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":38,"seen":0.0,"rssi":-19.1},
+    {"hex":"a8aaa5","flight":"SKW4305 ","alt_baro":7425,"alt_geom":7250,"gs":299.3,"track":37.9,"geom_rate":3072,"squawk":"4244","emergency":"none","category":"A2","nav_qnh":1004.8,"nav_altitude_mcp":23616,"lat":44.926820,"lon":-93.012733,"nic":8,"rc":186,"seen_pos":0.1,"version":0,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":191,"seen":0.0,"rssi":-16.4},
+    {"hex":"ade8ff","alt_baro":9000,"squawk":"0126","version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":16,"seen":33.7,"rssi":-22.1},
+    {"hex":"c02ff6","flight":"ASP574  ","alt_baro":13200,"alt_geom":13200,"gs":277.8,"track":9.5,"baro_rate":3264,"squawk":"2417","emergency":"none","category":"A1","nav_qnh":1005.6,"nav_altitude_mcp":39008,"lat":45.048843,"lon":-93.046156,"nic":9,"rc":75,"seen_pos":3.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":196,"seen":3.0,"rssi":-17.9},
+    {"hex":"c00b80","flight":"JZA848  ","alt_baro":12875,"alt_geom":12925,"gs":338.2,"track":37.3,"baro_rate":2112,"squawk":"3053","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":35008,"nav_modes":["autopilot","vnav","tcas"],"lat":45.123876,"lon":-92.789522,"nic":8,"rc":186,"seen_pos":2.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1071,"seen":0.5,"rssi":-15.3},
+    {"hex":"a835c5","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":205,"seen":94.5,"rssi":-19.7},
+    {"hex":"ab729b","flight":"CAP2165 ","alt_baro":2175,"alt_geom":1825,"gs":77.3,"track":185.2,"baro_rate":-320,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1005.6,"nav_altitude_mcp":2016,"lat":44.894714,"lon":-92.855334,"nic":9,"rc":75,"seen_pos":1.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2125,"seen":0.8,"rssi":-15.1},
+    {"hex":"a01b56","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":34,"seen":280.5,"rssi":-19.6},
+    {"hex":"a3d122","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1542,"seen":147.9,"rssi":-19.1}
+  ]
+}

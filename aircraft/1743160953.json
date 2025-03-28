@@ -1,0 +1,7 @@
+{ "now" : 1743160953.0,
+  "messages" : 862126,
+  "aircraft" : [
+    {"hex":"ab704b","flight":"SCX8013 ","alt_baro":5425,"alt_geom":5150,"gs":266.8,"track":4.3,"baro_rate":2240,"category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":6016,"nav_heading":0.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":32,"seen":0.5,"rssi":-18.4},
+    {"hex":"a0f46f","flight":"DAL650  ","alt_baro":37000,"alt_geom":37275,"gs":497.8,"track":86.7,"baro_rate":0,"squawk":"2443","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":85.1,"lat":45.148036,"lon":-92.547823,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1266,"seen":0.1,"rssi":-18.0}
+  ]
+}

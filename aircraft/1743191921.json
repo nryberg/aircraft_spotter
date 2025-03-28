@@ -1,0 +1,9 @@
+{ "now" : 1743191921.2,
+  "messages" : 1285610,
+  "aircraft" : [
+    {"hex":"a367f0","type":"adsr_icao","alt_baro":3275,"alt_geom":2725,"gs":139.9,"track":276.6,"geom_rate":-512,"lat":45.023895,"lon":-93.425838,"nic":8,"rc":186,"seen_pos":0.8,"nac_p":8,"nac_v":0,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":12,"seen":0.8,"rssi":-19.4},
+    {"hex":"a979ee","flight":"N71CH   ","alt_baro":4375,"alt_geom":3950,"gs":215.2,"track":245.0,"baro_rate":-64,"squawk":"7004","emergency":"none","category":"A2","nav_qnh":999.2,"nav_altitude_mcp":4000,"nav_heading":239.8,"nav_modes":["autopilot","althold","tcas"],"lat":45.077179,"lon":-92.971082,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1145,"seen":0.0,"rssi":-11.3},
+    {"hex":"ab109b","flight":"N8118Z  ","alt_baro":6700,"alt_geom":6475,"gs":115.9,"track":129.0,"geom_rate":320,"squawk":"3021","emergency":"none","category":"A1","lat":45.148967,"lon":-92.977161,"nic":8,"rc":186,"seen_pos":1.6,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":577,"seen":1.1,"rssi":-17.7},
+    {"hex":"a231a6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":176,"seen":235.0,"rssi":-21.6}
+  ]
+}

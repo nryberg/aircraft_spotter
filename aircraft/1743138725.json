@@ -1,0 +1,7 @@
+{ "now" : 1743138725.6,
+  "messages" : 833529,
+  "aircraft" : [
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":149.8,"rssi":-22.2},
+    {"hex":"ab92ed","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":205,"seen":90.7,"rssi":-20.2}
+  ]
+}

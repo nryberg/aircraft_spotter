@@ -1,0 +1,8 @@
+{ "now" : 1743138845.7,
+  "messages" : 833771,
+  "aircraft" : [
+    {"hex":"aa7bd6","flight":"CKS217  ","alt_baro":33000,"alt_geom":33200,"gs":543.1,"track":135.7,"baro_rate":0,"squawk":"7470","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":135.7,"lat":45.449834,"lon":-93.242843,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":235,"seen":0.1,"rssi":-20.2},
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":269.9,"rssi":-22.2},
+    {"hex":"ab92ed","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":205,"seen":210.8,"rssi":-20.2}
+  ]
+}

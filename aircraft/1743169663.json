@@ -1,0 +1,9 @@
+{ "now" : 1743169663.8,
+  "messages" : 990744,
+  "aircraft" : [
+    {"hex":"293d7c","flight":"EDV5179 ","alt_baro":7250,"alt_geom":7025,"gs":246.8,"track":315.5,"geom_rate":-1728,"squawk":"2657","emergency":"none","category":"A3","nav_qnh":1004.8,"nav_altitude_mcp":8000,"nav_heading":11.2,"lat":44.980820,"lon":-93.149928,"nic":8,"rc":186,"seen_pos":2.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":137,"seen":0.6,"rssi":-18.6},
+    {"hex":"abba43","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":4,"seen":210.5,"rssi":-23.6},
+    {"hex":"a64c08","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":28,"seen":137.8,"rssi":-18.7},
+    {"hex":"71c009","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":307,"seen":224.6,"rssi":-18.9}
+  ]
+}

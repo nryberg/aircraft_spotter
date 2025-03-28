@@ -1,0 +1,6 @@
+{ "now" : 1743157498.8,
+  "messages" : 855734,
+  "aircraft" : [
+    {"hex":"ab8418","flight":"TSU069  ","alt_baro":17450,"alt_geom":17550,"gs":358.6,"track":353.1,"geom_rate":2816,"squawk":"4254","emergency":"none","category":"A2","nav_qnh":1006.4,"nav_altitude_mcp":26016,"nav_heading":350.2,"lat":45.239960,"lon":-93.066101,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1351,"seen":0.6,"rssi":-14.9}
+  ]
+}

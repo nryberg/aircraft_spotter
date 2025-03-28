@@ -1,0 +1,6 @@
+{ "now" : 1743158610.1,
+  "messages" : 857668,
+  "aircraft" : [
+    {"hex":"a919cd","flight":"DAL1062 ","alt_baro":8950,"alt_geom":8500,"gs":282.5,"track":169.8,"baro_rate":3264,"squawk":"2410","emergency":"none","category":"A4","nav_qnh":1006.4,"nav_altitude_mcp":16992,"nav_heading":165.9,"lat":44.779435,"lon":-92.976759,"nic":8,"rc":186,"seen_pos":11.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":43,"seen":4.1,"rssi":-18.3}
+  ]
+}

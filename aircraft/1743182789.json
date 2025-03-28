@@ -1,0 +1,10 @@
+{ "now" : 1743182790.0,
+  "messages" : 1157460,
+  "aircraft" : [
+    {"hex":"a009a4","alt_baro":35000,"alt_geom":35175,"gs":507.4,"track":82.4,"baro_rate":0,"nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":11,"seen":3.7,"rssi":-21.3},
+    {"hex":"a0f4b5","flight":"DAL636  ","alt_baro":32000,"alt_geom":32200,"gs":415.9,"track":243.4,"baro_rate":0,"category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_heading":248.9,"lat":44.822031,"lon":-92.506022,"nic":8,"rc":186,"seen_pos":8.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":106,"seen":2.1,"rssi":-20.4},
+    {"hex":"a66a4c","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":729,"seen":134.7,"rssi":-22.0},
+    {"hex":"a68871","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":48,"seen":175.9,"rssi":-20.6},
+    {"hex":"ac8588","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":963,"seen":201.5,"rssi":-19.2}
+  ]
+}

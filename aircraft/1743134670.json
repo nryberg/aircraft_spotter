@@ -1,0 +1,8 @@
+{ "now" : 1743134670.6,
+  "messages" : 818872,
+  "aircraft" : [
+    {"hex":"a9f67d","alt_baro":32000,"alt_geom":32250,"gs":451.0,"track":307.3,"baro_rate":-64,"version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":41,"seen":7.5,"rssi":-20.2},
+    {"hex":"a55e4d","flight":"MVK82   ","alt_baro":5050,"alt_geom":4800,"gs":124.4,"track":184.6,"baro_rate":0,"squawk":"4214","emergency":"none","category":"A1","nav_qnh":1012.0,"nav_altitude_mcp":4992,"nav_modes":["althold"],"lat":44.864114,"lon":-92.769426,"nic":9,"rc":75,"seen_pos":30.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2667,"seen":0.9,"rssi":-19.5},
+    {"hex":"ab351a","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1210,"seen":290.5,"rssi":-21.2}
+  ]
+}

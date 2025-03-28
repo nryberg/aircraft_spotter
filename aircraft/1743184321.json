@@ -1,0 +1,14 @@
+{ "now" : 1743184321.9,
+  "messages" : 1174025,
+  "aircraft" : [
+    {"hex":"a5d7f7","alt_baro":6225,"alt_geom":5900,"gs":257.4,"track":229.3,"geom_rate":1280,"lat":44.808717,"lon":-93.197155,"nic":8,"rc":186,"seen_pos":29.4,"version":0,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":23,"seen":27.3,"rssi":-21.9},
+    {"hex":"a1ec6d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":48,"seen":122.5,"rssi":-21.2},
+    {"hex":"a768c2","alt_baro":69400,"category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":44,"seen":64.8,"rssi":-22.0},
+    {"hex":"ac685d","flight":"SKW3920 ","alt_baro":7450,"alt_geom":7200,"gs":250.7,"track":301.0,"geom_rate":-1600,"squawk":"4262","emergency":"none","category":"A3","nav_qnh":1003.2,"nav_altitude_mcp":6016,"nav_heading":295.3,"lat":44.982834,"lon":-93.151768,"nic":8,"rc":186,"seen_pos":17.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1636,"seen":8.4,"rssi":-17.9},
+    {"hex":"a602ab","flight":"ASA356  ","alt_baro":33000,"alt_geom":33250,"gs":506.0,"track":89.4,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":88.6,"lat":45.166191,"lon":-91.971577,"nic":8,"rc":186,"seen_pos":9.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1854,"seen":5.9,"rssi":-21.3},
+    {"hex":"a2dce1","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1079,"seen":208.1,"rssi":-18.7},
+    {"hex":"a67f81","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1041,"seen":229.3,"rssi":-19.9},
+    {"hex":"a7e279","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1367,"seen":109.8,"rssi":-20.4},
+    {"hex":"a184d9","flight":"N1972Q  ","alt_baro":1800,"alt_geom":1400,"gs":69.0,"track":88.3,"baro_rate":832,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1003.2,"nav_heading":125.9,"lat":44.989246,"lon":-92.839095,"nic":9,"rc":75,"seen_pos":1.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":5896,"seen":1.4,"rssi":-18.7}
+  ]
+}

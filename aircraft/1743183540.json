@@ -1,0 +1,8 @@
+{ "now" : 1743183540.9,
+  "messages" : 1161271,
+  "aircraft" : [
+    {"hex":"a7c7d2","flight":"LXJ600  ","alt_baro":45000,"alt_geom":45175,"gs":402.4,"track":277.4,"geom_rate":0,"squawk":"2006","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":44992,"nav_heading":281.2,"lat":45.119705,"lon":-93.090363,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":732,"seen":0.2,"rssi":-8.2},
+    {"hex":"a65bb7","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":201.6,"rssi":-21.4},
+    {"hex":"a184d9","flight":"N1972Q  ","alt_baro":1575,"alt_geom":1150,"gs":62.9,"track":135.6,"baro_rate":-704,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1003.2,"nav_heading":125.9,"lat":45.009031,"lon":-92.869910,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2428,"seen":0.0,"rssi":-3.7}
+  ]
+}

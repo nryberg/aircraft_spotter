@@ -1,0 +1,8 @@
+{ "now" : 1743159721.5,
+  "messages" : 860267,
+  "aircraft" : [
+    {"hex":"a74992","flight":"JIA5176 ","alt_baro":10350,"alt_geom":10350,"gs":323.1,"track":114.5,"geom_rate":3072,"squawk":"3664","emergency":"none","category":"A3","nav_qnh":1006.4,"nav_altitude_mcp":16992,"nav_heading":94.9,"lat":44.753082,"lon":-92.811781,"nic":8,"rc":186,"seen_pos":7.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":77,"seen":7.8,"rssi":-17.8},
+    {"hex":"ab4515","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":15,"seen":109.4,"rssi":-20.9},
+    {"hex":"acbf60","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":43,"seen":257.6,"rssi":-20.5}
+  ]
+}

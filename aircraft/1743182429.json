@@ -1,0 +1,9 @@
+{ "now" : 1743182429.5,
+  "messages" : 1156309,
+  "aircraft" : [
+    {"hex":"a66a4c","flight":"EJA512  ","alt_baro":41000,"alt_geom":41075,"gs":483.0,"track":90.5,"baro_rate":64,"squawk":"4067","category":"A2","nav_qnh":1013.6,"nav_altitude_mcp":40992,"nav_modes":["althold","tcas"],"lat":44.966017,"lon":-93.041538,"nic":9,"rc":75,"seen_pos":8.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":90,"seen":6.3,"rssi":-20.2},
+    {"hex":"a68871","alt_baro":3475,"version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":18.0,"rssi":-21.3},
+    {"hex":"ac8588","flight":"DAL1575 ","alt_baro":14475,"alt_geom":14575,"gs":299.6,"track":257.1,"baro_rate":-1280,"squawk":"6532","emergency":"none","category":"A3","nav_qnh":1002.4,"nav_altitude_mcp":8000,"nav_heading":300.2,"lat":44.942139,"lon":-92.958461,"nic":8,"rc":186,"seen_pos":1.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":651,"seen":0.0,"rssi":-11.8},
+    {"hex":"a4b3ab","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2026,"seen":155.2,"rssi":-20.9}
+  ]
+}

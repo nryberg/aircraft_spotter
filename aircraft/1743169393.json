@@ -1,0 +1,10 @@
+{ "now" : 1743169393.4,
+  "messages" : 990576,
+  "aircraft" : [
+    {"hex":"a4ed70","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":11,"seen":96.9,"rssi":-18.8},
+    {"hex":"a64c08","type":"adsr_icao","alt_baro":3100,"lat":44.965877,"lon":-92.973878,"nic":7,"rc":371,"seen_pos":66.8,"sil_type":"perhour","mlat":[],"tisb":[],"messages":27,"seen":66.8,"rssi":-18.8},
+    {"hex":"acdcd1","type":"adsr_icao","category":"A7","sil_type":"unknown","mlat":[],"tisb":[],"messages":12,"seen":191.6,"rssi":-18.7},
+    {"hex":"71c009","flight":"KAL037  ","alt_baro":33000,"alt_geom":33325,"gs":488.3,"track":147.5,"baro_rate":0,"category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":153.3,"lat":44.682141,"lon":-92.955389,"nic":8,"rc":186,"seen_pos":53.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":306,"seen":23.3,"rssi":-18.7},
+    {"hex":"a426a5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1795,"seen":72.5,"rssi":-19.5}
+  ]
+}

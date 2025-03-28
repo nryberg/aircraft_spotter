@@ -1,0 +1,11 @@
+{ "now" : 1743163085.7,
+  "messages" : 873460,
+  "aircraft" : [
+    {"hex":"a2e5ec","flight":"SKW3819 ","alt_baro":12275,"alt_geom":12225,"gs":298.4,"track":257.2,"baro_rate":-1344,"squawk":"4575","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":8000,"nav_modes":["autopilot","vnav","tcas"],"lat":44.977661,"lon":-92.738604,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":125,"seen":0.1,"rssi":-16.3},
+    {"hex":"ab48cc","flight":"SCX769  ","alt_baro":9825,"alt_geom":8050,"gs":281.0,"track":163.9,"baro_rate":1600,"squawk":"0166","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":16992,"nav_heading":229.9,"lat":44.748001,"lon":-92.903791,"nic":8,"rc":186,"seen_pos":47.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":104,"seen":4.6,"rssi":-20.1},
+    {"hex":"ac5bf6","flight":"DAL2403 ","alt_baro":8825,"alt_geom":8825,"gs":250.1,"track":300.3,"baro_rate":-1536,"squawk":"6777","emergency":"none","category":"A3","nav_qnh":1004.8,"nav_altitude_mcp":8000,"nav_heading":298.8,"lat":44.940994,"lon":-93.055769,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1540,"seen":0.1,"rssi":-19.5},
+    {"hex":"ad1d3d","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":80,"seen":224.9,"rssi":-19.3},
+    {"hex":"a95492","flight":"N700AD  ","alt_baro":24900,"alt_geom":25250,"gs":235.2,"track":122.7,"baro_rate":192,"squawk":"3614","emergency":"none","category":"A1","lat":44.925247,"lon":-92.652675,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2984,"seen":0.2,"rssi":-16.8},
+    {"hex":"ac10af","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":589,"seen":274.7,"rssi":-18.6}
+  ]
+}

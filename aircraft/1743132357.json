@@ -1,0 +1,11 @@
+{ "now" : 1743132357.7,
+  "messages" : 808165,
+  "aircraft" : [
+    {"hex":"a3501b","flight":"N312VA  ","alt_baro":3100,"alt_geom":2975,"gs":69.0,"track":90.0,"baro_rate":896,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1014.4,"nav_altitude_mcp":3488,"nav_modes":[],"lat":44.990457,"lon":-92.794547,"nic":9,"rc":75,"seen_pos":22.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":385,"seen":21.5,"rssi":-19.9},
+    {"hex":"a955be","flight":"N700ND  ","alt_baro":7600,"alt_geom":7550,"gs":149.0,"track":301.6,"baro_rate":1344,"category":"A2","lat":45.031448,"lon":-93.069894,"nic":9,"rc":75,"seen_pos":40.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":383,"seen":40.8,"rssi":-19.9},
+    {"hex":"a320a6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":54,"seen":157.9,"rssi":-19.6},
+    {"hex":"a583a8","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":999,"seen":298.0,"rssi":-17.9},
+    {"hex":"a3b85b","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":157,"seen":280.0,"rssi":-19.7},
+    {"hex":"aaf260","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":984,"seen":129.4,"rssi":-19.8}
+  ]
+}

@@ -1,0 +1,9 @@
+{ "now" : 1743162635.1,
+  "messages" : 868314,
+  "aircraft" : [
+    {"hex":"a95492","flight":"N700AD  ","alt_baro":17400,"alt_geom":17575,"gs":214.8,"track":122.1,"baro_rate":1152,"squawk":"3614","emergency":"none","category":"A1","lat":45.179738,"lon":-93.221808,"nic":9,"rc":75,"seen_pos":1.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":187,"seen":0.8,"rssi":-18.0},
+    {"hex":"ab62d3","squawk":"4150","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":23,"seen":36.8,"rssi":-20.1},
+    {"hex":"ac10af","flight":"DAL2059 ","alt_baro":14925,"alt_geom":15000,"gs":273.1,"track":261.4,"baro_rate":-1600,"squawk":"6547","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":8000,"nav_heading":265.1,"lat":44.856720,"lon":-92.868020,"nic":8,"rc":186,"seen_pos":5.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":266,"seen":0.1,"rssi":-17.0},
+    {"hex":"a12797","flight":"UAL2859 ","alt_baro":36000,"alt_geom":36275,"gs":398.8,"track":273.6,"baro_rate":0,"squawk":"7423","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":277.7,"lat":45.135001,"lon":-93.116500,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1094,"seen":0.0,"rssi":-9.9}
+  ]
+}

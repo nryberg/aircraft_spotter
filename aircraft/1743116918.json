@@ -1,0 +1,10 @@
+{ "now" : 1743116918.7,
+  "messages" : 620589,
+  "aircraft" : [
+    {"hex":"a7a17b","flight":"DAL977  ","alt_baro":35025,"alt_geom":35250,"gs":503.0,"track":90.1,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":44.504219,"lon":-92.969390,"nic":8,"rc":186,"seen_pos":16.5,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":29,"seen":5.6,"rssi":-21.0},
+    {"hex":"ad10e9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":368,"seen":77.7,"rssi":-20.6},
+    {"hex":"a688ff","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":51,"seen":184.3,"rssi":-18.9},
+    {"hex":"adb938","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2184,"seen":65.5,"rssi":-20.9},
+    {"hex":"a32614","flight":"N3015D  ","alt_baro":3000,"alt_geom":2875,"gs":128.9,"track":331.2,"baro_rate":-192,"squawk":"4575","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":3008,"nav_heading":329.8,"lat":45.052883,"lon":-92.773110,"nic":9,"rc":75,"seen_pos":4.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3283,"seen":2.1,"rssi":-19.3}
+  ]
+}

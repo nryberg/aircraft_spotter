@@ -1,0 +1,8 @@
+{ "now" : 1743136743.1,
+  "messages" : 825612,
+  "aircraft" : [
+    {"hex":"a3bda6","flight":"DAL2593 ","alt_baro":15775,"alt_geom":16025,"gs":365.0,"track":269.1,"baro_rate":-2688,"squawk":"3511","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.868955,"lon":-92.517745,"nic":8,"rc":186,"seen_pos":26.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":92,"seen":12.1,"rssi":-20.5},
+    {"hex":"c0816e","flight":"CJT1925 ","alt_baro":39000,"alt_geom":39075,"gs":510.6,"track":131.9,"baro_rate":0,"squawk":"7002","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":132.9,"lat":44.848566,"lon":-92.902065,"nic":8,"rc":186,"seen_pos":6.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":421,"seen":3.6,"rssi":-19.4},
+    {"hex":"a0642c","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":24,"seen":118.3,"rssi":-19.2}
+  ]
+}

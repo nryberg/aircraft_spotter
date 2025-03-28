@@ -1,0 +1,10 @@
+{ "now" : 1743190599.6,
+  "messages" : 1275901,
+  "aircraft" : [
+    {"hex":"adde95","flight":"JBU256  ","alt_baro":35025,"alt_geom":35225,"gs":510.4,"track":97.5,"baro_rate":-128,"squawk":"6075","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":45.146942,"lon":-93.216444,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":101,"seen":0.4,"rssi":-15.2},
+    {"hex":"a7c764","flight":"N600BM  ","alt_baro":24000,"alt_geom":24225,"gs":242.4,"track":326.4,"baro_rate":64,"category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":24000,"nav_heading":315.0,"nav_modes":["autopilot","althold","lnav"],"lat":44.977934,"lon":-93.197624,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":118,"seen":0.3,"rssi":-18.3},
+    {"hex":"acb251","flight":"SKW5930 ","alt_baro":32000,"alt_geom":32200,"gs":383.4,"track":305.0,"geom_rate":0,"category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":32000,"lat":45.161164,"lon":-93.406164,"nic":8,"rc":186,"seen_pos":18.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":850,"seen":8.2,"rssi":-20.7},
+    {"hex":"a3b0fe","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1200,"seen":287.8,"rssi":-20.2},
+    {"hex":"ab2677","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":392,"seen":117.5,"rssi":-20.1}
+  ]
+}

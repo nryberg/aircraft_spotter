@@ -1,0 +1,11 @@
+{ "now" : 1743129504.2,
+  "messages" : 787573,
+  "aircraft" : [
+    {"hex":"a3c246","alt_baro":2375,"alt_geom":2275,"gs":150.3,"track":97.6,"baro_rate":1600,"version":0,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":4,"seen":21.4,"rssi":-19.6},
+    {"hex":"a80501","type":"adsr_icao","flight":"N61594  ","alt_baro":3100,"category":"A1","nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":3.3,"rssi":-22.2},
+    {"hex":"c010ec","alt_baro":32050,"version":0,"mlat":[],"tisb":[],"messages":8,"seen":30.4,"rssi":-20.7},
+    {"hex":"ab04f3","flight":"SCX262  ","alt_baro":13550,"alt_geom":13650,"gs":295.8,"track":279.1,"baro_rate":-1408,"squawk":"6577","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":10016,"nav_heading":281.2,"lat":44.872559,"lon":-92.825906,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":406,"seen":0.1,"rssi":-10.7},
+    {"hex":"a57339","flight":"MVK92   ","alt_baro":4100,"alt_geom":3900,"gs":147.6,"track":291.9,"baro_rate":448,"squawk":"4202","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":4000,"nav_heading":270.0,"nav_modes":[],"lat":45.013184,"lon":-93.018755,"nic":9,"rc":75,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":534,"seen":0.6,"rssi":-19.7},
+    {"hex":"a585cc","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":42,"seen":291.6,"rssi":-20.1}
+  ]
+}

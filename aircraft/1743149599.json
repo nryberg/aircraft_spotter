@@ -1,0 +1,8 @@
+{ "now" : 1743149599.0,
+  "messages" : 844457,
+  "aircraft" : [
+    {"hex":"a77c11","flight":"UAL1230 ","alt_baro":37000,"alt_geom":37175,"gs":500.3,"track":91.9,"baro_rate":0,"squawk":"3245","emergency":"none","category":"A4","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":87.9,"lat":44.856759,"lon":-92.921291,"nic":8,"rc":186,"seen_pos":1.5,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":200,"seen":0.5,"rssi":-11.9},
+    {"hex":"adf128","flight":"JBU648  ","alt_baro":35000,"alt_geom":35225,"gs":487.4,"track":92.4,"baro_rate":64,"squawk":"6005","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":44.898889,"lon":-92.739146,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":323,"seen":0.6,"rssi":-10.2},
+    {"hex":"a34e9d","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":49,"seen":137.3,"rssi":-20.4}
+  ]
+}

@@ -1,0 +1,8 @@
+{ "now" : 1743148908.1,
+  "messages" : 843741,
+  "aircraft" : [
+    {"hex":"a28de3","flight":"ASA22   ","alt_baro":33000,"alt_geom":33225,"gs":494.1,"track":106.8,"baro_rate":0,"squawk":"6625","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":104.8,"lat":44.998231,"lon":-92.520759,"nic":8,"rc":186,"seen_pos":5.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1297,"seen":3.1,"rssi":-18.1},
+    {"hex":"ad2ea1","flight":"ASA274  ","alt_baro":35000,"alt_geom":35225,"gs":492.0,"track":102.7,"baro_rate":0,"squawk":"3557","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":94.2,"lat":44.866814,"lon":-92.345514,"nic":8,"rc":186,"seen_pos":2.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1509,"seen":2.5,"rssi":-18.3},
+    {"hex":"899133","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2008,"seen":192.1,"rssi":-20.6}
+  ]
+}

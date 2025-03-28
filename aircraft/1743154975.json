@@ -1,0 +1,8 @@
+{ "now" : 1743154975.6,
+  "messages" : 852917,
+  "aircraft" : [
+    {"hex":"c058c0","alt_baro":40975,"alt_geom":41200,"gs":535.5,"track":84.4,"geom_rate":-64,"nav_qnh":1012.8,"nav_altitude_mcp":40992,"nav_heading":83.7,"nav_modes":["autopilot","vnav","tcas"],"lat":44.608728,"lon":-92.946681,"nic":8,"rc":186,"seen_pos":13.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":31,"seen":4.7,"rssi":-19.0},
+    {"hex":"ad9e73","flight":"JBU948  ","alt_baro":33000,"alt_geom":33325,"gs":484.2,"track":72.2,"baro_rate":0,"squawk":"7314","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":68.9,"lat":45.028885,"lon":-93.117632,"nic":8,"rc":186,"seen_pos":1.4,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":103,"seen":0.9,"rssi":-16.8},
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":4175,"alt_geom":3950,"gs":182.5,"track":298.1,"baro_rate":0,"squawk":"6201","emergency":"none","category":"A1","nav_qnh":1007.2,"nav_altitude_mcp":4000,"nav_heading":289.7,"nav_modes":["autopilot","althold"],"lat":45.163651,"lon":-92.961862,"nic":8,"rc":186,"seen_pos":1.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":333,"seen":0.6,"rssi":-19.4}
+  ]
+}

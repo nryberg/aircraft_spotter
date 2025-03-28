@@ -1,0 +1,9 @@
+{ "now" : 1743181198.0,
+  "messages" : 1147936,
+  "aircraft" : [
+    {"hex":"aa6e2d","flight":"EJA771  ","alt_baro":17675,"alt_geom":16200,"gs":374.1,"track":135.8,"geom_rate":4480,"category":"A2","nav_qnh":1003.2,"nav_altitude_mcp":16992,"nav_heading":120.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":32,"seen":3.8,"rssi":-20.4},
+    {"hex":"a52ea4","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":919,"seen":45.7,"rssi":-20.2},
+    {"hex":"acdcd1","type":"adsr_icao","category":"A7","sil_type":"perhour","mlat":[],"tisb":[],"messages":74,"seen":219.1,"rssi":-20.9},
+    {"hex":"abe5a2","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1333,"seen":106.0,"rssi":-21.7}
+  ]
+}

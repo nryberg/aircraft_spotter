@@ -1,0 +1,6 @@
+{ "now" : 1743160772.8,
+  "messages" : 860998,
+  "aircraft" : [
+    {"hex":"a0f46f","flight":"DAL650  ","alt_baro":37025,"alt_geom":37300,"gs":501.0,"track":89.5,"baro_rate":-64,"squawk":"2443","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":87.9,"lat":45.134629,"lon":-93.134118,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":181,"seen":0.0,"rssi":-7.5}
+  ]
+}

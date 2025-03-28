@@ -1,0 +1,9 @@
+{ "now" : 1743153443.7,
+  "messages" : 848605,
+  "aircraft" : [
+    {"hex":"a1242d","flight":"UAL2056 ","alt_baro":37000,"alt_geom":37225,"gs":488.8,"track":83.9,"baro_rate":0,"squawk":"3513","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":80.2,"lat":45.151248,"lon":-93.197959,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":60,"seen":0.1,"rssi":-13.3},
+    {"hex":"c05eac","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":27,"seen":75.9,"rssi":-19.7},
+    {"hex":"aac8a4","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":346,"seen":257.7,"rssi":-18.9},
+    {"hex":"ab4c1d","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1258,"seen":166.4,"rssi":-20.1}
+  ]
+}

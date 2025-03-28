@@ -1,0 +1,9 @@
+{ "now" : 1743155215.9,
+  "messages" : 854076,
+  "aircraft" : [
+    {"hex":"a1d368","alt_baro":34975,"alt_geom":35350,"gs":482.6,"track":98.7,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":44.587314,"lon":-92.783962,"nic":8,"rc":186,"seen_pos":31.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":71,"seen":22.7,"rssi":-18.5},
+    {"hex":"c058c0","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":65,"seen":124.5,"rssi":-19.0},
+    {"hex":"ad9e73","flight":"JBU948  ","alt_baro":33000,"alt_geom":33300,"gs":492.0,"track":90.3,"baro_rate":0,"squawk":"7314","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":87.9,"lat":45.152390,"lon":-92.411761,"nic":8,"rc":186,"seen_pos":11.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":1,"sda":2,"mlat":[],"tisb":[],"messages":1025,"seen":11.0,"rssi":-18.5},
+    {"hex":"a43887","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":453,"seen":80.5,"rssi":-20.4}
+  ]
+}

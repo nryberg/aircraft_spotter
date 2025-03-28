@@ -1,0 +1,13 @@
+{ "now" : 1743123887.3,
+  "messages" : 720159,
+  "aircraft" : [
+    {"hex":"a6fea3","type":"adsr_icao","flight":"BMJ71   ","alt_baro":3375,"alt_geom":3275,"gs":169.6,"track":148.7,"baro_rate":-1344,"category":"A1","lat":44.957428,"lon":-93.358547,"nic":8,"rc":186,"seen_pos":3.9,"nac_p":8,"nac_v":0,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":23,"seen":3.9,"rssi":-20.2},
+    {"hex":"a4996b","alt_baro":14250,"alt_geom":14325,"gs":323.9,"track":257.3,"baro_rate":-1984,"squawk":"3515","emergency":"none","lat":44.999954,"lon":-92.598921,"nic":8,"rc":186,"seen_pos":24.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":31,"seen":5.8,"rssi":-20.1},
+    {"hex":"ab3282","flight":"SCX633  ","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":22688,"nav_heading":132.9,"version":0,"nic_baro":1,"nac_p":10,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":43.0,"rssi":-20.7},
+    {"hex":"a44d1c","flight":"DAL2885 ","alt_baro":13000,"alt_geom":13075,"gs":273.5,"track":293.9,"baro_rate":-1600,"squawk":"3167","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":8000,"nav_heading":294.6,"lat":44.893616,"lon":-92.887704,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":848,"seen":0.0,"rssi":-10.2},
+    {"hex":"a35206","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":8,"seen":289.5,"rssi":-21.7},
+    {"hex":"a9e624","flight":"N737ME  ","alt_baro":1325,"alt_geom":1175,"gs":72.3,"track":139.5,"baro_rate":-384,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":1984,"lat":45.003864,"lon":-92.862742,"nic":9,"rc":75,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":962,"seen":0.2,"rssi":-10.1},
+    {"hex":"a314d9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":144,"seen":244.2,"rssi":-19.1},
+    {"hex":"aafc36","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1564,"seen":146.2,"rssi":-19.1}
+  ]
+}

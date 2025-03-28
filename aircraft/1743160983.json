@@ -1,0 +1,7 @@
+{ "now" : 1743160983.1,
+  "messages" : 862269,
+  "aircraft" : [
+    {"hex":"ab704b","flight":"SCX8013 ","alt_baro":6100,"alt_geom":5875,"gs":266.8,"track":355.7,"baro_rate":896,"squawk":"4250","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":6016,"nav_heading":0.0,"lat":44.922816,"lon":-93.081196,"nic":8,"rc":186,"seen_pos":12.7,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":83,"seen":9.9,"rssi":-15.7},
+    {"hex":"a0f46f","flight":"DAL650  ","alt_baro":37025,"alt_geom":37300,"gs":497.0,"track":86.4,"baro_rate":0,"squawk":"2443","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36992,"nav_heading":85.1,"lat":45.151566,"lon":-92.463619,"nic":8,"rc":186,"seen_pos":4.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1353,"seen":0.0,"rssi":-19.5}
+  ]
+}

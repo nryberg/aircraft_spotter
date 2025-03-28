@@ -1,0 +1,12 @@
+{ "now" : 1743128573.0,
+  "messages" : 782545,
+  "aircraft" : [
+    {"hex":"aae73b","alt_baro":7775,"squawk":"5435","version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":12.9,"rssi":-21.5},
+    {"hex":"a57339","flight":"MVK92   ","alt_baro":3525,"alt_geom":3325,"gs":131.2,"track":232.4,"baro_rate":0,"squawk":"4211","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":3488,"nav_heading":197.6,"nav_modes":["althold"],"lat":45.190818,"lon":-93.060965,"nic":9,"rc":75,"seen_pos":25.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":157,"seen":25.8,"rssi":-18.2},
+    {"hex":"a066a3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":237.5,"rssi":-20.9},
+    {"hex":"c004ea","version":0,"mlat":[],"tisb":[],"messages":6,"seen":164.9,"rssi":-22.6},
+    {"hex":"a74992","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1044,"seen":60.8,"rssi":-18.0},
+    {"hex":"a5ec0f","flight":"N4808F  ","alt_baro":5525,"alt_geom":5375,"gs":79.6,"track":205.3,"geom_rate":0,"squawk":"0233","emergency":"none","category":"A1","lat":45.138819,"lon":-93.044620,"nic":9,"rc":75,"seen_pos":2.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1122,"seen":2.0,"rssi":-19.2},
+    {"hex":"a42b21","flight":"MVK83   ","alt_baro":5025,"alt_geom":4875,"gs":98.6,"track":220.5,"baro_rate":-64,"squawk":"7702","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_modes":[],"lat":45.041152,"lon":-93.043414,"nic":9,"rc":75,"seen_pos":10.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3501,"seen":5.5,"rssi":-19.6}
+  ]
+}

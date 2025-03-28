@@ -1,0 +1,11 @@
+{ "now" : 1743169573.7,
+  "messages" : 990642,
+  "aircraft" : [
+    {"hex":"293d7c","alt_baro":8200,"alt_geom":8050,"gs":293.3,"track":16.6,"geom_rate":0,"version":0,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":47,"seen":0.1,"rssi":-18.8},
+    {"hex":"abba43","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":4,"seen":120.4,"rssi":-23.6},
+    {"hex":"a4ed70","type":"adsr_icao","sil_type":"unknown","mlat":[],"tisb":[],"messages":11,"seen":277.2,"rssi":-18.8},
+    {"hex":"a64c08","type":"adsr_icao","alt_baro":4200,"sil_type":"perhour","mlat":[],"tisb":[],"messages":28,"seen":47.7,"rssi":-18.7},
+    {"hex":"71c009","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":307,"seen":134.5,"rssi":-18.9},
+    {"hex":"a426a5","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1795,"seen":252.7,"rssi":-19.5}
+  ]
+}

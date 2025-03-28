@@ -1,0 +1,11 @@
+{ "now" : 1743181228.1,
+  "messages" : 1147951,
+  "aircraft" : [
+    {"hex":"a3c246","alt_baro":3375,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":1.5,"rssi":-21.2},
+    {"hex":"a5f938","alt_baro":7625,"alt_geom":7450,"gs":280.2,"track":156.0,"baro_rate":2496,"version":0,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":13.9,"rssi":-20.8},
+    {"hex":"aa6e2d","flight":"EJA771  ","alt_baro":17675,"alt_geom":16200,"gs":374.1,"track":135.8,"geom_rate":4480,"category":"A2","version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":34,"seen":12.5,"rssi":-20.1},
+    {"hex":"a52ea4","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":919,"seen":75.7,"rssi":-20.2},
+    {"hex":"acdcd1","type":"adsr_icao","category":"A7","sil_type":"perhour","mlat":[],"tisb":[],"messages":74,"seen":249.1,"rssi":-20.9},
+    {"hex":"abe5a2","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1333,"seen":136.0,"rssi":-21.7}
+  ]
+}

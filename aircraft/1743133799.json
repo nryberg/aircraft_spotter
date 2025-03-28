@@ -1,0 +1,8 @@
+{ "now" : 1743133799.5,
+  "messages" : 811701,
+  "aircraft" : [
+    {"hex":"c05ee1","flight":"ACA742  ","alt_baro":34975,"alt_geom":35200,"gs":474.0,"track":89.6,"geom_rate":-64,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"nav_heading":84.4,"version":0,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":10.1,"rssi":-19.6},
+    {"hex":"a837a5","flight":"UAL657  ","alt_baro":15700,"alt_geom":15800,"gs":313.1,"track":268.5,"baro_rate":-1408,"squawk":"3102","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":270.0,"lat":44.866562,"lon":-92.647836,"nic":8,"rc":186,"seen_pos":4.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":135,"seen":4.2,"rssi":-18.4},
+    {"hex":"a95609","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1382,"seen":126.9,"rssi":-21.5}
+  ]
+}

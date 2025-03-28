@@ -1,0 +1,9 @@
+{ "now" : 1743161824.1,
+  "messages" : 865689,
+  "aircraft" : [
+    {"hex":"a77721","flight":"JIA5079 ","alt_baro":10150,"alt_geom":10075,"gs":311.2,"track":33.3,"geom_rate":2688,"squawk":"3671","emergency":"none","category":"A3","nav_qnh":1006.4,"nav_altitude_mcp":35008,"nav_heading":35.9,"lat":45.002141,"lon":-92.878686,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":11,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":384,"seen":0.1,"rssi":-2.2},
+    {"hex":"a2b698","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":25,"seen":142.7,"rssi":-20.9},
+    {"hex":"a5955b","flight":"UPS496  ","alt_baro":21125,"alt_geom":21225,"gs":369.3,"track":327.9,"baro_rate":2112,"squawk":"2666","emergency":"none","category":"A4","nav_qnh":1012.8,"nav_altitude_mcp":32000,"nav_heading":324.8,"nav_modes":["vnav","tcas"],"lat":45.404297,"lon":-93.174853,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":923,"seen":0.0,"rssi":-18.3},
+    {"hex":"ab92c4","alt_baro":18500,"alt_geom":18525,"gs":455.4,"track":78.3,"baro_rate":1920,"category":"A3","lat":45.273169,"lon":-92.499926,"nic":8,"rc":186,"seen_pos":67.5,"version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1368,"seen":67.3,"rssi":-18.5}
+  ]
+}

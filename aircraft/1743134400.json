@@ -1,0 +1,11 @@
+{ "now" : 1743134400.2,
+  "messages" : 817843,
+  "aircraft" : [
+    {"hex":"a9f67d","alt_baro":32000,"mlat":[],"tisb":[],"messages":5,"seen":10.3,"rssi":-23.8},
+    {"hex":"a55e4d","flight":"MVK82   ","alt_baro":6050,"alt_geom":5825,"gs":128.1,"track":182.2,"baro_rate":-320,"squawk":"4214","emergency":"none","category":"A1","nav_qnh":1012.0,"nav_altitude_mcp":4992,"nav_modes":["althold"],"lat":45.010800,"lon":-92.752075,"nic":9,"rc":75,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1695,"seen":0.1,"rssi":-16.9},
+    {"hex":"c05ed9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":462,"seen":88.0,"rssi":-19.7},
+    {"hex":"ad20f4","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1207,"seen":108.0,"rssi":-17.1},
+    {"hex":"a65c08","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":556,"seen":276.0,"rssi":-19.3},
+    {"hex":"ab351a","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1210,"seen":20.1,"rssi":-21.2}
+  ]
+}

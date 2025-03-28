@@ -1,0 +1,11 @@
+{ "now" : 1743132117.4,
+  "messages" : 807359,
+  "aircraft" : [
+    {"hex":"a320a6","alt_baro":9000,"alt_geom":8950,"gs":290.9,"track":155.6,"geom_rate":0,"category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8992,"nav_heading":154.7,"lat":44.721897,"lon":-93.011594,"nic":8,"rc":186,"seen_pos":48.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":50,"seen":4.6,"rssi":-19.5},
+    {"hex":"a583a8","alt_baro":1000,"alt_geom":925,"gs":68.7,"track":138.0,"geom_rate":-448,"category":"A1","lat":45.002002,"lon":-92.860733,"nic":9,"rc":75,"seen_pos":59.5,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":999,"seen":57.7,"rssi":-17.9},
+    {"hex":"a3b85b","gs":125.7,"track":291.5,"baro_rate":0,"category":"A1","version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":157,"seen":39.7,"rssi":-19.7},
+    {"hex":"a3501b","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":865,"seen":230.1,"rssi":-16.9},
+    {"hex":"aaf260","flight":"SCX388  ","alt_baro":9850,"alt_geom":9850,"gs":245.3,"track":260.6,"baro_rate":-1344,"category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":277.0,"lat":44.822845,"lon":-93.167855,"nic":8,"rc":186,"seen_pos":5.4,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":961,"seen":3.8,"rssi":-17.2},
+    {"hex":"c01dcb","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":361,"seen":265.5,"rssi":-20.3}
+  ]
+}

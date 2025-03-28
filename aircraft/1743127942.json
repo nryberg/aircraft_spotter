@@ -1,0 +1,11 @@
+{ "now" : 1743127942.3,
+  "messages" : 774522,
+  "aircraft" : [
+    {"hex":"a42b21","gs":93.0,"track":49.8,"baro_rate":576,"version":0,"nac_v":2,"mlat":[],"tisb":[],"messages":5,"seen":2.8,"rssi":-22.9},
+    {"hex":"ab92c4","alt_baro":8025,"alt_geom":7975,"gs":249.0,"track":301.2,"baro_rate":-1088,"lat":44.806855,"lon":-93.323766,"nic":8,"rc":186,"seen_pos":21.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":36,"seen":10.5,"rssi":-20.0},
+    {"hex":"abac22","flight":"N851M   ","alt_baro":6000,"alt_geom":5900,"gs":218.1,"track":271.3,"baro_rate":-64,"squawk":"0530","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":6016,"nav_modes":["autopilot","althold","tcas"],"lat":45.137558,"lon":-92.819497,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":614,"seen":0.6,"rssi":-16.4},
+    {"hex":"a96601","flight":"N70413  ","alt_baro":1775,"alt_geom":1675,"gs":107.5,"track":315.8,"geom_rate":-512,"squawk":"1200","emergency":"none","category":"A1","lat":45.008100,"lon":-92.852761,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":248,"seen":0.2,"rssi":-13.6},
+    {"hex":"a2e5ec","flight":"SKW4003 ","alt_baro":14700,"alt_geom":14800,"gs":393.0,"track":90.0,"baro_rate":896,"squawk":"4531","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":23008,"nav_modes":["autopilot","vnav","tcas"],"lat":45.180084,"lon":-92.694528,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1415,"seen":0.1,"rssi":-13.0},
+    {"hex":"a55e4d","alt_baro":5025,"category":"A1","lat":45.313809,"lon":-93.021508,"nic":9,"rc":75,"seen_pos":58.7,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":619,"seen":58.7,"rssi":-20.6}
+  ]
+}

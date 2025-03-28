@@ -1,0 +1,7 @@
+{ "now" : 1743158760.3,
+  "messages" : 858043,
+  "aircraft" : [
+    {"hex":"a842a9","flight":"NKS308  ","alt_baro":11375,"alt_geom":11375,"gs":347.8,"track":36.9,"baro_rate":2752,"squawk":"2646","emergency":"none","category":"A3","nav_qnh":1007.2,"nav_altitude_mcp":31008,"lat":45.016754,"lon":-92.901699,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":353,"seen":0.3,"rssi":-8.2},
+    {"hex":"a919cd","category":"A4","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":58,"seen":115.5,"rssi":-19.0}
+  ]
+}

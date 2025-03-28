@@ -1,0 +1,8 @@
+{ "now" : 1743152993.2,
+  "messages" : 847568,
+  "aircraft" : [
+    {"hex":"aac8a4","alt_baro":37000,"alt_geom":37250,"gs":515.7,"track":64.4,"baro_rate":0,"nav_qnh":1012.8,"nav_altitude_mcp":36992,"nav_heading":59.8,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":36,"seen":3.7,"rssi":-17.8},
+    {"hex":"ab4c1d","flight":"DAL310  ","alt_baro":39025,"alt_geom":39175,"gs":511.1,"track":99.6,"baro_rate":0,"squawk":"1477","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":0.0,"lat":45.238208,"lon":-92.997057,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":651,"seen":0.1,"rssi":-10.7},
+    {"hex":"a01c37","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":22,"seen":129.1,"rssi":-18.7}
+  ]
+}

@@ -1,0 +1,9 @@
+{ "now" : 1743138214.9,
+  "messages" : 833278,
+  "aircraft" : [
+    {"hex":"a7b13b","alt_baro":12125,"alt_geom":12175,"gs":267.2,"track":261.2,"baro_rate":-1472,"squawk":"3175","emergency":"none","category":"A4","nav_qnh":1011.2,"nav_altitude_mcp":8000,"nav_heading":263.0,"lat":44.843259,"lon":-92.990693,"nic":8,"rc":186,"seen_pos":46.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":616,"seen":9.4,"rssi":-17.5},
+    {"hex":"abe8b6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":474,"seen":87.9,"rssi":-18.9},
+    {"hex":"ab4515","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":589,"seen":180.7,"rssi":-19.4},
+    {"hex":"a77721","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":653,"seen":236.5,"rssi":-19.2}
+  ]
+}

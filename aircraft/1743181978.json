@@ -1,0 +1,8 @@
+{ "now" : 1743181979.0,
+  "messages" : 1155427,
+  "aircraft" : [
+    {"hex":"abd580","flight":"N8614P  ","alt_baro":7200,"alt_geom":6900,"gs":135.5,"track":174.9,"baro_rate":64,"squawk":"4503","emergency":"none","category":"A1","nav_qnh":1005.6,"nav_altitude_mcp":7008,"nav_heading":180.0,"lat":44.854660,"lon":-92.616577,"nic":9,"rc":75,"seen_pos":3.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":133,"seen":1.7,"rssi":-18.8},
+    {"hex":"ac7074","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":19,"seen":246.0,"rssi":-21.5},
+    {"hex":"a4b3ab","flight":"N4017F  ","alt_baro":3775,"alt_geom":3300,"gs":131.2,"track":3.5,"baro_rate":0,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1004.0,"nav_altitude_mcp":3488,"lat":45.251010,"lon":-92.900525,"nic":8,"rc":186,"seen_pos":21.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2020,"seen":16.8,"rssi":-21.2}
+  ]
+}

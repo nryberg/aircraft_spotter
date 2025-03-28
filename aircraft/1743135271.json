@@ -1,0 +1,8 @@
+{ "now" : 1743135271.3,
+  "messages" : 821801,
+  "aircraft" : [
+    {"hex":"ae1465","alt_baro":36000,"mlat":[],"tisb":[],"messages":486,"seen":0.0,"rssi":-6.5},
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":11050,"alt_geom":11075,"gs":264.8,"track":116.5,"baro_rate":0,"squawk":"2625","emergency":"none","category":"A1","nav_qnh":1011.2,"nav_altitude_mcp":11008,"nav_heading":118.1,"nav_modes":["autopilot","althold","lnav"],"lat":44.922351,"lon":-92.637858,"nic":8,"rc":186,"seen_pos":0.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1553,"seen":0.3,"rssi":-19.7},
+    {"hex":"a55e4d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2915,"seen":162.8,"rssi":-20.8}
+  ]
+}

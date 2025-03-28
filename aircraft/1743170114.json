@@ -1,0 +1,6 @@
+{ "now" : 1743170114.3,
+  "messages" : 991518,
+  "aircraft" : [
+    {"hex":"c00b7e","flight":"JZA721  ","alt_baro":11025,"alt_geom":11000,"gs":266.8,"track":257.0,"baro_rate":-832,"squawk":"0555","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":8000,"nav_modes":["autopilot","vnav","tcas"],"lat":44.949692,"lon":-92.910985,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":732,"seen":0.0,"rssi":-5.5}
+  ]
+}

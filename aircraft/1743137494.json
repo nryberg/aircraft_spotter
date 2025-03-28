@@ -1,0 +1,8 @@
+{ "now" : 1743137494.0,
+  "messages" : 830145,
+  "aircraft" : [
+    {"hex":"a09bc3","flight":"N13830  ","alt_baro":3100,"alt_geom":2950,"gs":96.2,"track":16.9,"geom_rate":704,"squawk":"4201","emergency":"none","category":"A1","lat":44.980957,"lon":-92.986777,"nic":8,"rc":186,"seen_pos":1.8,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":310,"seen":0.7,"rssi":-15.9},
+    {"hex":"a3ec93","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":108,"seen":227.1,"rssi":-18.4},
+    {"hex":"ab77b9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1356,"seen":106.8,"rssi":-19.3}
+  ]
+}

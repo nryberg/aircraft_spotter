@@ -1,0 +1,7 @@
+{ "now" : 1743170204.4,
+  "messages" : 991971,
+  "aircraft" : [
+    {"hex":"a3d122","alt_baro":18625,"alt_geom":18900,"gs":329.0,"track":257.4,"baro_rate":-2176,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":12,"seen":1.6,"rssi":-18.1},
+    {"hex":"c00b7e","flight":"JZA721  ","alt_baro":8950,"alt_geom":8925,"gs":259.4,"track":296.6,"baro_rate":-832,"squawk":"0555","emergency":"none","category":"A3","nav_qnh":1004.8,"nav_altitude_mcp":8000,"nav_modes":["autopilot","vnav","tcas"],"lat":44.940087,"lon":-93.054199,"nic":8,"rc":186,"seen_pos":1.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1168,"seen":0.5,"rssi":-17.7}
+  ]
+}

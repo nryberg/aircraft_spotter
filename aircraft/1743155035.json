@@ -1,0 +1,8 @@
+{ "now" : 1743155035.7,
+  "messages" : 853252,
+  "aircraft" : [
+    {"hex":"c058c0","flight":"ACA2184 ","alt_baro":40975,"alt_geom":41175,"gs":534.4,"track":85.8,"geom_rate":-64,"squawk":"7370","emergency":"none","category":"A5","version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":46,"seen":0.1,"rssi":-18.5},
+    {"hex":"ad9e73","flight":"JBU948  ","alt_baro":33000,"alt_geom":33325,"gs":484.5,"track":72.1,"baro_rate":0,"squawk":"7314","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":68.9,"lat":45.070853,"lon":-92.933685,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":354,"seen":0.1,"rssi":-11.0},
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":3775,"alt_geom":3550,"gs":178.9,"track":295.8,"baro_rate":-768,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1007.2,"nav_altitude_mcp":3008,"nav_heading":288.3,"nav_modes":["althold"],"lat":45.185989,"lon":-93.024902,"nic":8,"rc":186,"seen_pos":0.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":400,"seen":0.1,"rssi":-19.1}
+  ]
+}

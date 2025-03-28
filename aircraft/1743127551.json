@@ -1,0 +1,9 @@
+{ "now" : 1743127551.8,
+  "messages" : 771558,
+  "aircraft" : [
+    {"hex":"a091f3","flight":"EDV5029 ","alt_baro":7175,"alt_geom":7100,"gs":249.0,"track":301.2,"geom_rate":-1408,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":6016,"nav_heading":301.6,"lat":44.984498,"lon":-93.156761,"nic":8,"rc":186,"seen_pos":45.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1302,"seen":45.3,"rssi":-18.2},
+    {"hex":"a3dc47","alt_baro":9400,"category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":555,"seen":6.3,"rssi":-20.1},
+    {"hex":"a8770d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1052,"seen":108.5,"rssi":-19.9},
+    {"hex":"ab3639","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":466,"seen":245.1,"rssi":-19.6}
+  ]
+}

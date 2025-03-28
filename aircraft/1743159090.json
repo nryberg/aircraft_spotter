@@ -1,0 +1,7 @@
+{ "now" : 1743159090.7,
+  "messages" : 859225,
+  "aircraft" : [
+    {"hex":"a82e57","flight":"UPS6077 ","alt_baro":33000,"alt_geom":33325,"gs":500.7,"track":171.4,"baro_rate":0,"squawk":"3422","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":32992,"nav_heading":175.8,"lat":45.332895,"lon":-92.921961,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":317,"seen":0.2,"rssi":-15.3},
+    {"hex":"a842a9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1202,"seen":133.1,"rssi":-18.8}
+  ]
+}

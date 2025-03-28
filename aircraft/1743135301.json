@@ -1,0 +1,8 @@
+{ "now" : 1743135301.3,
+  "messages" : 821942,
+  "aircraft" : [
+    {"hex":"ae1465","flight":"RCH179  ","alt_baro":36000,"squawk":"0536","mlat":[],"tisb":[],"messages":568,"seen":0.6,"rssi":-8.4},
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":11050,"alt_geom":11075,"gs":266.1,"track":116.6,"baro_rate":0,"squawk":"2625","emergency":"none","category":"A1","nav_qnh":1011.2,"nav_altitude_mcp":11008,"nav_heading":118.1,"nav_modes":["autopilot","althold","lnav"],"lat":44.906525,"lon":-92.593100,"nic":8,"rc":186,"seen_pos":1.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1609,"seen":1.7,"rssi":-21.2},
+    {"hex":"a55e4d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2915,"seen":192.8,"rssi":-20.8}
+  ]
+}

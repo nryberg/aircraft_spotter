@@ -1,0 +1,10 @@
+{ "now" : 1743168852.8,
+  "messages" : 987143,
+  "aircraft" : [
+    {"hex":"ab73ca","flight":"EJA837  ","alt_baro":17425,"alt_geom":17300,"gs":439.0,"track":127.1,"baro_rate":2624,"category":"A2","nav_qnh":1005.6,"nav_altitude_mcp":23008,"nav_heading":130.1,"nav_modes":["autopilot","lnav","tcas"],"lat":44.606781,"lon":-92.721143,"nic":8,"rc":186,"seen_pos":2.6,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":14,"seen":1.1,"rssi":-19.6},
+    {"hex":"a452c4","alt_baro":20825,"mlat":[],"tisb":[],"messages":5,"seen":20.4,"rssi":-23.5},
+    {"hex":"ab967b","flight":"DAL1330 ","alt_baro":12150,"alt_geom":12150,"gs":295.7,"track":256.9,"baro_rate":-1856,"squawk":"1462","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":8000,"nav_heading":260.9,"lat":44.971789,"lon":-92.778737,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":363,"seen":0.0,"rssi":-5.0},
+    {"hex":"a96601","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":833,"seen":122.5,"rssi":-16.1},
+    {"hex":"a9e624","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1597,"seen":260.5,"rssi":-17.8}
+  ]
+}

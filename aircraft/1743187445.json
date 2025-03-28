@@ -1,0 +1,12 @@
+{ "now" : 1743187445.7,
+  "messages" : 1246011,
+  "aircraft" : [
+    {"hex":"a66442","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":14,"seen":199.0,"rssi":-20.3},
+    {"hex":"acfc05","flight":"DAL1567 ","alt_baro":13900,"alt_geom":13975,"gs":275.0,"track":269.2,"baro_rate":-832,"squawk":"3262","emergency":"none","category":"A3","nav_qnh":1001.6,"nav_altitude_mcp":8000,"nav_heading":263.7,"lat":44.866287,"lon":-92.746974,"nic":8,"rc":186,"seen_pos":13.2,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":255,"seen":1.8,"rssi":-17.9},
+    {"hex":"a09cfe","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":903,"seen":228.9,"rssi":-21.1},
+    {"hex":"aa07e5","type":"adsr_icao","category":"A1","sil_type":"perhour","mlat":[],"tisb":[],"messages":18,"seen":112.1,"rssi":-21.1},
+    {"hex":"a68871","flight":"N52VA   ","alt_baro":3675,"alt_geom":3300,"gs":81.7,"track":255.1,"baro_rate":256,"squawk":"0251","emergency":"none","category":"A1","nav_qnh":1000.0,"nav_altitude_mcp":4512,"nav_modes":[],"lat":45.080750,"lon":-93.003976,"nic":9,"rc":75,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3064,"seen":0.1,"rssi":-17.2},
+    {"hex":"ab2677","flight":"N8175U  ","alt_baro":4275,"alt_geom":3850,"gs":118.6,"track":340.8,"geom_rate":-128,"squawk":"4550","emergency":"none","category":"A1","lat":45.219773,"lon":-92.918277,"nic":9,"rc":75,"seen_pos":17.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3235,"seen":5.0,"rssi":-21.6},
+    {"hex":"a184d9","flight":"N1972Q  ","alt_baro":2200,"alt_geom":1750,"gs":91.4,"track":355.0,"baro_rate":192,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1003.2,"nav_heading":125.9,"lat":44.991394,"lon":-92.831464,"nic":9,"rc":75,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":19976,"seen":0.0,"rssi":-16.4}
+  ]
+}

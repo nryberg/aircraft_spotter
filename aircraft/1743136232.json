@@ -1,0 +1,7 @@
+{ "now" : 1743136232.5,
+  "messages" : 824964,
+  "aircraft" : [
+    {"hex":"a09cfe","flight":"DAL2313 ","alt_baro":9550,"alt_geom":9525,"gs":257.4,"track":257.2,"geom_rate":-1280,"squawk":"1712","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":257.3,"lat":44.936503,"lon":-92.992502,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1016,"seen":0.6,"rssi":-10.9},
+    {"hex":"a842a9","squawk":"5777","emergency":"none","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":680,"seen":68.9,"rssi":-18.2}
+  ]
+}

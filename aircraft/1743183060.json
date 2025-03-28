@@ -1,0 +1,9 @@
+{ "now" : 1743183060.3,
+  "messages" : 1158016,
+  "aircraft" : [
+    {"hex":"a184d9","alt_baro":1475,"alt_geom":875,"gs":58.1,"track":42.2,"baro_rate":896,"nav_qnh":1003.2,"nav_heading":125.9,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":4,"seen":0.1,"rssi":-21.3},
+    {"hex":"a7eef3","flight":"N610CC  ","alt_baro":3300,"alt_geom":2975,"gs":104.0,"track":305.2,"geom_rate":192,"category":"A1","lat":44.947861,"lon":-93.007246,"nic":10,"rc":25,"seen_pos":0.4,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":227,"seen":0.0,"rssi":-18.1},
+    {"hex":"a009a4","alt_baro":34975,"alt_geom":35125,"gs":511.8,"track":83.0,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":45.839570,"lon":-92.657112,"nic":8,"rc":186,"seen_pos":8.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":57,"seen":6.4,"rssi":-20.9},
+    {"hex":"a0f4b5","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":363,"seen":78.8,"rssi":-19.7}
+  ]
+}

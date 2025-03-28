@@ -1,0 +1,6 @@
+{ "now" : 1743156567.6,
+  "messages" : 854327,
+  "aircraft" : [
+    {"hex":"a40d51","flight":"N360LL  ","alt_baro":1975,"alt_geom":1725,"gs":131.6,"track":204.2,"baro_rate":-64,"squawk":"0350","emergency":"none","category":"A7","lat":45.048935,"lon":-93.047594,"nic":8,"rc":186,"seen_pos":7.3,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":32,"seen":2.7,"rssi":-20.0}
+  ]
+}

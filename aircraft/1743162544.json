@@ -1,0 +1,8 @@
+{ "now" : 1743162545.0,
+  "messages" : 867423,
+  "aircraft" : [
+    {"hex":"ab62d3","alt_baro":8275,"alt_geom":8125,"gs":298.4,"track":155.2,"baro_rate":2880,"nav_qnh":1005.6,"nav_altitude_mcp":16992,"nav_heading":198.3,"lat":44.772360,"lon":-92.952241,"nic":8,"rc":186,"seen_pos":36.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":21,"seen":32.5,"rssi":-19.7},
+    {"hex":"ac10af","alt_baro":17025,"alt_geom":17150,"gs":322.1,"track":268.9,"baro_rate":-1984,"nav_qnh":1005.6,"nav_altitude_mcp":8000,"nav_heading":270.0,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":20,"seen":18.9,"rssi":-18.5},
+    {"hex":"a12797","flight":"UAL2859 ","alt_baro":36000,"alt_geom":36275,"gs":396.8,"track":273.6,"baro_rate":0,"squawk":"7423","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":277.7,"lat":45.124191,"lon":-92.871225,"nic":8,"rc":186,"seen_pos":5.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":640,"seen":5.4,"rssi":-15.0}
+  ]
+}

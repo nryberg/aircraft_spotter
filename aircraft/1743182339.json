@@ -1,0 +1,9 @@
+{ "now" : 1743182339.4,
+  "messages" : 1155782,
+  "aircraft" : [
+    {"hex":"a68871","alt_baro":3250,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":6,"seen":28.1,"rssi":-22.0},
+    {"hex":"ac8588","flight":"DAL1575 ","alt_baro":17200,"alt_geom":17375,"gs":317.1,"track":257.1,"baro_rate":-640,"squawk":"6532","emergency":"none","category":"A3","nav_qnh":1002.4,"nav_altitude_mcp":8992,"nav_heading":300.2,"lat":44.970532,"lon":-92.784498,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":222,"seen":0.3,"rssi":-8.4},
+    {"hex":"abd580","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":233,"seen":235.1,"rssi":-20.5},
+    {"hex":"a4b3ab","squawk":"0425","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2026,"seen":65.1,"rssi":-20.9}
+  ]
+}

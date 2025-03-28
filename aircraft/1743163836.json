@@ -1,0 +1,14 @@
+{ "now" : 1743163836.6,
+  "messages" : 883243,
+  "aircraft" : [
+    {"hex":"a44d1c","alt_baro":8775,"alt_geom":8700,"gs":255.0,"track":328.3,"baro_rate":-832,"squawk":"2102","emergency":"none","version":0,"nac_v":2,"mlat":[],"tisb":[],"messages":12,"seen":4.1,"rssi":-19.7},
+    {"hex":"a0954c","alt_baro":3850,"alt_geom":3600,"gs":156.3,"track":45.3,"baro_rate":704,"nav_qnh":1005.6,"nav_altitude_mcp":7008,"lat":44.895397,"lon":-93.136463,"nic":9,"rc":75,"seen_pos":57.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":62,"seen":53.6,"rssi":-20.5},
+    {"hex":"a972be","flight":"SKW4251 ","alt_baro":11725,"alt_geom":11650,"gs":270.5,"track":257.4,"geom_rate":-1216,"squawk":"0533","emergency":"none","category":"A2","nav_qnh":1004.8,"nav_altitude_mcp":10016,"lat":44.958615,"lon":-92.855106,"nic":8,"rc":186,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":731,"seen":0.1,"rssi":-12.3},
+    {"hex":"ab68d0","flight":"SKW4110 ","alt_baro":37000,"alt_geom":37275,"gs":477.0,"track":89.6,"geom_rate":64,"squawk":"3646","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":36992,"nav_heading":87.2,"lat":44.898935,"lon":-92.759779,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":425,"seen":0.2,"rssi":-9.2},
+    {"hex":"ab2c72","flight":"SCX1605 ","alt_baro":11600,"alt_geom":11475,"gs":369.0,"track":40.2,"baro_rate":2560,"squawk":"2650","emergency":"none","category":"A3","nav_qnh":1005.6,"nav_altitude_mcp":23008,"nav_heading":30.9,"lat":45.115585,"lon":-92.810604,"nic":8,"rc":186,"seen_pos":1.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1498,"seen":0.6,"rssi":-13.0},
+    {"hex":"a983f3","alt_baro":6500,"category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1666,"seen":55.9,"rssi":-20.1},
+    {"hex":"a777b8","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":603,"seen":174.5,"rssi":-19.7},
+    {"hex":"ac912e","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1718,"seen":72.2,"rssi":-19.6},
+    {"hex":"a15c01","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1579,"seen":265.7,"rssi":-18.5}
+  ]
+}

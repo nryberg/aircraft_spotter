@@ -1,0 +1,11 @@
+{ "now" : 1743180837.6,
+  "messages" : 1146957,
+  "aircraft" : [
+    {"hex":"a52ea4","flight":"DAL121  ","alt_baro":6700,"alt_geom":6450,"gs":293.0,"track":353.3,"baro_rate":2176,"squawk":"2446","emergency":"none","category":"A5","nav_qnh":1003.2,"nav_altitude_mcp":16992,"nav_heading":350.2,"lat":45.108719,"lon":-93.075976,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":140,"seen":0.1,"rssi":-15.2},
+    {"hex":"a42634","type":"adsr_icao","flight":"N3669L  ","alt_baro":1900,"alt_geom":1625,"gs":77.5,"track":101.2,"geom_rate":256,"category":"A1","lat":45.217392,"lon":-92.837023,"nic":8,"rc":186,"seen_pos":1.9,"nic_baro":0,"nac_p":9,"nac_v":0,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":35,"seen":1.9,"rssi":-20.2},
+    {"hex":"a2f86e","type":"adsr_icao","flight":"N2904R  ","alt_baro":3275,"alt_geom":2850,"gs":109.2,"track":159.1,"geom_rate":0,"category":"A1","lat":45.191391,"lon":-92.965001,"nic":8,"rc":186,"seen_pos":2.3,"nic_baro":0,"nac_p":9,"nac_v":0,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":27,"seen":0.0,"rssi":-20.1},
+    {"hex":"acdcd1","type":"adsr_icao","flight":"N928KP  ","alt_baro":2300,"alt_geom":1975,"gs":62.8,"track":157.5,"geom_rate":0,"category":"A7","lat":44.896468,"lon":-92.986673,"nic":7,"rc":371,"seen_pos":0.1,"nic_baro":0,"nac_p":8,"nac_v":0,"sil":3,"sil_type":"perhour","gva":1,"sda":2,"mlat":[],"tisb":[],"messages":48,"seen":0.1,"rssi":-20.2},
+    {"hex":"a324b0","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":52,"seen":201.2,"rssi":-19.7},
+    {"hex":"abe5a2","flight":"FDX9794 ","alt_baro":40000,"alt_geom":40125,"gs":404.8,"track":295.3,"baro_rate":0,"squawk":"6537","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":40000,"nav_heading":291.8,"lat":45.109305,"lon":-93.264346,"nic":8,"rc":186,"seen_pos":1.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1270,"seen":1.5,"rssi":-17.7}
+  ]
+}

@@ -1,0 +1,8 @@
+{ "now" : 1743170234.5,
+  "messages" : 992009,
+  "aircraft" : [
+    {"hex":"ac4963","alt_baro":3950,"alt_geom":3625,"gs":233.3,"track":38.7,"baro_rate":960,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":0.9,"rssi":-19.4},
+    {"hex":"a3d122","flight":"DAL1493 ","alt_baro":17475,"alt_geom":17675,"gs":326.8,"track":257.5,"baro_rate":-2368,"category":"A3","nav_qnh":1006.4,"nav_altitude_mcp":8000,"nav_heading":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":25,"seen":0.5,"rssi":-19.5},
+    {"hex":"c00b7e","flight":"JZA721  ","alt_baro":8775,"alt_geom":8825,"gs":256.0,"track":300.8,"baro_rate":-1216,"squawk":"0555","emergency":"none","category":"A3","nav_qnh":1004.8,"nav_altitude_mcp":8000,"nav_modes":["autopilot","vnav","tcas"],"lat":44.944929,"lon":-93.065922,"nic":8,"rc":186,"seen_pos":23.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1186,"seen":23.9,"rssi":-17.7}
+  ]
+}

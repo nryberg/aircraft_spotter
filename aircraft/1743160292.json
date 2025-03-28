@@ -1,0 +1,8 @@
+{ "now" : 1743160292.2,
+  "messages" : 860781,
+  "aircraft" : [
+    {"hex":"a3ec93","flight":"DAL976  ","alt_baro":8350,"alt_geom":8150,"gs":283.4,"track":171.1,"baro_rate":2752,"category":"A3","nav_altitude_mcp":16992,"nav_heading":0.0,"lat":44.702362,"lon":-93.019475,"nic":8,"rc":186,"seen_pos":48.6,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":76,"seen":43.7,"rssi":-20.6},
+    {"hex":"aba2ef","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":11,"seen":139.4,"rssi":-20.8},
+    {"hex":"a3615f","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":97,"seen":242.0,"rssi":-18.0}
+  ]
+}

@@ -1,0 +1,10 @@
+{ "now" : 1743140017.2,
+  "messages" : 836068,
+  "aircraft" : [
+    {"hex":"a01805","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":7,"seen":169.8,"rssi":-21.0},
+    {"hex":"a41c69","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":195,"seen":85.9,"rssi":-19.3},
+    {"hex":"~334efe","type":"tisb_other","sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":299.5,"rssi":-22.8},
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":298.5,"rssi":-21.8},
+    {"hex":"ac6c83","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":643,"seen":176.5,"rssi":-18.9}
+  ]
+}

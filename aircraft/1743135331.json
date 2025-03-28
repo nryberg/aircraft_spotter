@@ -1,0 +1,9 @@
+{ "now" : 1743135331.4,
+  "messages" : 822040,
+  "aircraft" : [
+    {"hex":"ab704b","flight":"SCX352  ","alt_baro":19100,"alt_geom":19300,"gs":330.8,"track":274.0,"baro_rate":-2048,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":12000,"nav_heading":276.3,"lat":44.867419,"lon":-92.446736,"nic":8,"rc":186,"seen_pos":10.1,"version":0,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":14,"seen":3.3,"rssi":-20.3},
+    {"hex":"ae1465","flight":"RCH179  ","alt_baro":36000,"squawk":"0536","mlat":[],"tisb":[],"messages":640,"seen":0.7,"rssi":-17.4},
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":11050,"alt_geom":11075,"gs":267.0,"track":116.5,"baro_rate":0,"squawk":"2625","emergency":"none","category":"A1","nav_qnh":1011.2,"nav_altitude_mcp":11008,"nav_heading":118.1,"nav_modes":["autopilot","althold","lnav"],"lat":44.899401,"lon":-92.573078,"nic":8,"rc":186,"seen_pos":18.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1623,"seen":11.6,"rssi":-20.6},
+    {"hex":"a55e4d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2915,"seen":222.9,"rssi":-20.8}
+  ]
+}

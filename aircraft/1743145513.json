@@ -1,0 +1,6 @@
+{ "now" : 1743145514.0,
+  "messages" : 838719,
+  "aircraft" : [
+    {"hex":"c02028","flight":"MAL7051 ","alt_baro":34000,"alt_geom":34275,"gs":424.3,"track":278.1,"baro_rate":0,"squawk":"0703","emergency":"none","category":"A4","nav_qnh":1013.6,"nav_altitude_mcp":34016,"nav_heading":282.7,"nav_modes":["vnav","tcas"],"lat":45.126114,"lon":-93.285697,"nic":8,"rc":186,"seen_pos":42.3,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":912,"seen":23.8,"rssi":-19.7}
+  ]
+}

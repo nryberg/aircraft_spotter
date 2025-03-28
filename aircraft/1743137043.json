@@ -1,0 +1,9 @@
+{ "now" : 1743137043.5,
+  "messages" : 828305,
+  "aircraft" : [
+    {"hex":"ab77b9","flight":"SCX218  ","alt_baro":17700,"alt_geom":17900,"gs":290.1,"track":268.4,"baro_rate":-1856,"squawk":"1434","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":8000,"nav_heading":269.3,"lat":44.868304,"lon":-92.522099,"nic":8,"rc":186,"seen_pos":3.7,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":84,"seen":1.6,"rssi":-18.5},
+    {"hex":"a02ac5","flight":"N11KK   ","alt_baro":3825,"alt_geom":3725,"gs":147.6,"track":302.8,"baro_rate":-384,"squawk":"6274","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":3488,"lat":45.044357,"lon":-92.992532,"nic":9,"rc":75,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1426,"seen":0.0,"rssi":-18.0},
+    {"hex":"a3bda6","flight":"DAL2593 ","alt_baro":8550,"alt_geom":8525,"gs":265.5,"track":293.8,"baro_rate":-1920,"squawk":"3511","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":6016,"nav_heading":0.0,"lat":44.951958,"lon":-93.070813,"nic":8,"rc":186,"seen_pos":46.9,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1104,"seen":17.6,"rssi":-19.7},
+    {"hex":"c0816e","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":574,"seen":173.4,"rssi":-18.8}
+  ]
+}

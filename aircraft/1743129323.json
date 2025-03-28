@@ -1,0 +1,9 @@
+{ "now" : 1743129324.0,
+  "messages" : 786687,
+  "aircraft" : [
+    {"hex":"a57339","flight":"MVK92   ","alt_baro":2525,"alt_geom":2375,"gs":120.1,"track":50.7,"baro_rate":576,"squawk":"4211","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":2496,"nav_heading":59.8,"nav_modes":[],"lat":44.938797,"lon":-93.035562,"nic":9,"rc":75,"seen_pos":7.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":75,"seen":7.3,"rssi":-18.7},
+    {"hex":"a585cc","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":42,"seen":111.3,"rssi":-20.1},
+    {"hex":"ac5bf6","version":0,"mlat":[],"tisb":[],"messages":6,"seen":156.1,"rssi":-21.9},
+    {"hex":"a3f10f","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2376,"seen":248.6,"rssi":-19.4}
+  ]
+}

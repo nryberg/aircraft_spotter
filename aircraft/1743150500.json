@@ -1,0 +1,7 @@
+{ "now" : 1743150500.1,
+  "messages" : 846084,
+  "aircraft" : [
+    {"hex":"abde5b","flight":"GTI8143 ","alt_baro":36025,"alt_geom":36250,"gs":430.5,"track":309.5,"baro_rate":0,"squawk":"6560","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":308.7,"lat":44.933011,"lon":-92.836080,"nic":8,"rc":186,"seen_pos":2.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":231,"seen":1.8,"rssi":-16.9},
+    {"hex":"89901f","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":38,"seen":142.7,"rssi":-20.2}
+  ]
+}

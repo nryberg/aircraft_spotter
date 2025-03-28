@@ -1,0 +1,8 @@
+{ "now" : 1743134880.8,
+  "messages" : 819620,
+  "aircraft" : [
+    {"hex":"a40455","flight":"UPS105  ","alt_baro":33025,"alt_geom":33225,"gs":502.8,"track":131.8,"baro_rate":-64,"squawk":"4105","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":135.7,"nav_modes":["vnav","tcas"],"lat":44.814743,"lon":-92.848533,"nic":8,"rc":186,"seen_pos":3.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":486,"seen":3.1,"rssi":-16.7},
+    {"hex":"a9f67d","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":43,"seen":203.8,"rssi":-20.4},
+    {"hex":"a55e4d","alt_baro":5050,"alt_geom":4825,"gs":127.2,"track":183.2,"baro_rate":0,"squawk":"4214","emergency":"none","category":"A1","nav_qnh":1012.0,"nav_altitude_mcp":4992,"nav_modes":["althold"],"lat":44.741775,"lon":-92.782489,"nic":9,"rc":75,"seen_pos":29.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2913,"seen":20.4,"rssi":-20.6}
+  ]
+}

@@ -1,0 +1,7 @@
+{ "now" : 1743162094.4,
+  "messages" : 866713,
+  "aircraft" : [
+    {"hex":"a77721","flight":"JIA5079 ","alt_baro":17150,"alt_geom":17200,"gs":437.7,"track":79.2,"geom_rate":2112,"squawk":"3671","emergency":"none","category":"A3","nav_qnh":1006.4,"nav_altitude_mcp":35008,"nav_heading":75.9,"lat":45.283173,"lon":-92.438049,"nic":8,"rc":186,"seen_pos":20.9,"version":2,"nic_baro":1,"nac_p":11,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1379,"seen":20.9,"rssi":-19.0},
+    {"hex":"a5955b","category":"A4","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":942,"seen":258.2,"rssi":-19.9}
+  ]
+}

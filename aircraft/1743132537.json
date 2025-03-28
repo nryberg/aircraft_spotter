@@ -1,0 +1,8 @@
+{ "now" : 1743132537.9,
+  "messages" : 808466,
+  "aircraft" : [
+    {"hex":"acf207","flight":"AAL2906 ","alt_baro":15625,"alt_geom":15725,"gs":309.1,"track":268.7,"baro_rate":-768,"category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":270.0,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":67,"seen":1.1,"rssi":-17.8},
+    {"hex":"a3501b","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":602,"seen":47.5,"rssi":-20.5},
+    {"hex":"a955be","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":383,"seen":221.0,"rssi":-19.9}
+  ]
+}

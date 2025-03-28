@@ -1,0 +1,8 @@
+{ "now" : 1743137644.2,
+  "messages" : 830744,
+  "aircraft" : [
+    {"hex":"a77721","flight":"JIA5277 ","alt_baro":12225,"alt_geom":12375,"gs":303.1,"track":268.3,"geom_rate":-960,"category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":270.0,"lat":44.866488,"lon":-92.684014,"nic":8,"rc":186,"seen_pos":5.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":80,"seen":0.1,"rssi":-18.8},
+    {"hex":"a09bc3","flight":"N13830  ","alt_baro":4100,"alt_geom":3950,"gs":91.4,"track":311.0,"geom_rate":-384,"squawk":"4201","emergency":"none","category":"A1","lat":45.048880,"lon":-92.981381,"nic":8,"rc":186,"seen_pos":2.6,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":822,"seen":2.1,"rssi":-18.1},
+    {"hex":"ab77b9","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1356,"seen":257.0,"rssi":-19.3}
+  ]
+}

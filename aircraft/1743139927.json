@@ -1,0 +1,10 @@
+{ "now" : 1743139927.1,
+  "messages" : 836056,
+  "aircraft" : [
+    {"hex":"a01805","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":7,"seen":79.7,"rssi":-21.0},
+    {"hex":"a41c69","flight":"DAL2941 ","alt_baro":12200,"alt_geom":12275,"gs":314.1,"track":284.6,"baro_rate":1152,"squawk":"2611","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":23008,"nav_heading":0.0,"lat":44.982077,"lon":-93.254231,"nic":8,"rc":186,"seen_pos":43.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":190,"seen":42.5,"rssi":-17.1},
+    {"hex":"~334efe","type":"tisb_other","sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":209.3,"rssi":-22.8},
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":208.4,"rssi":-21.8},
+    {"hex":"ac6c83","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":643,"seen":86.4,"rssi":-18.9}
+  ]
+}

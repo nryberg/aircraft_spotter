@@ -1,0 +1,6 @@
+{ "now" : 1743139716.8,
+  "messages" : 835651,
+  "aircraft" : [
+    {"hex":"ac6c83","flight":"N9WW    ","alt_baro":9700,"alt_geom":9750,"gs":296.0,"track":127.5,"geom_rate":2752,"squawk":"3632","emergency":"none","category":"A2","lat":44.858871,"lon":-92.789154,"nic":9,"rc":75,"seen_pos":1.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":452,"seen":0.8,"rssi":-17.5}
+  ]
+}

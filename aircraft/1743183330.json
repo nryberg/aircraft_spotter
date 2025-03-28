@@ -1,0 +1,11 @@
+{ "now" : 1743183330.7,
+  "messages" : 1159456,
+  "aircraft" : [
+    {"hex":"a7c7d2","alt_baro":45000,"alt_geom":45150,"gs":400.8,"track":277.9,"geom_rate":0,"squawk":"2006","emergency":"none","nav_qnh":1012.8,"nav_altitude_mcp":44992,"nav_heading":281.2,"lat":45.067734,"lon":-92.545412,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":36,"seen":0.5,"rssi":-19.9},
+    {"hex":"a65bb7","alt_baro":5850,"alt_geom":5575,"gs":263.0,"track":115.2,"baro_rate":3328,"nav_qnh":1002.4,"nav_altitude_mcp":16992,"nav_heading":137.8,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":50.0,"rssi":-21.3},
+    {"hex":"a3d4c6","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":19,"seen":203.9,"rssi":-20.9},
+    {"hex":"a184d9","flight":"N1972Q  ","alt_baro":1300,"alt_geom":875,"gs":65.1,"track":137.5,"baro_rate":512,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1003.2,"nav_heading":125.9,"lat":44.994879,"lon":-92.851622,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1324,"seen":0.3,"rssi":-17.3},
+    {"hex":"a7eef3","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":251,"seen":228.3,"rssi":-20.5},
+    {"hex":"a009a4","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":67,"seen":107.2,"rssi":-22.6}
+  ]
+}

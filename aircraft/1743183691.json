@@ -1,0 +1,10 @@
+{ "now" : 1743183691.1,
+  "messages" : 1162575,
+  "aircraft" : [
+    {"hex":"a7e279","alt_baro":14375,"lat":44.867661,"lon":-92.462834,"nic":8,"rc":186,"seen_pos":0.3,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":0.3,"rssi":-20.4},
+    {"hex":"a6dfaa","flight":"DAL429  ","alt_baro":35975,"alt_geom":36275,"gs":496.0,"track":104.1,"baro_rate":64,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":36000,"version":0,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":17,"seen":10.7,"rssi":-19.7},
+    {"hex":"a6c358","flight":"DAL400  ","alt_baro":35050,"alt_geom":35325,"gs":497.4,"track":92.4,"baro_rate":64,"squawk":"3323","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":35008,"lat":45.134033,"lon":-92.963300,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":3,"mlat":[],"tisb":[],"messages":575,"seen":0.1,"rssi":-7.3},
+    {"hex":"a7c7d2","flight":"LXJ600  ","alt_baro":45000,"alt_geom":45175,"gs":403.2,"track":277.3,"geom_rate":0,"squawk":"2006","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":44992,"nav_heading":281.2,"lat":45.144591,"lon":-93.361481,"nic":8,"rc":186,"seen_pos":46.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":957,"seen":16.1,"rssi":-20.8},
+    {"hex":"a184d9","flight":"N1972Q  ","alt_baro":2150,"alt_geom":1725,"gs":102.8,"track":346.5,"baro_rate":256,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1003.2,"nav_heading":125.9,"lat":44.996292,"lon":-92.830091,"nic":9,"rc":75,"seen_pos":9.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2892,"seen":0.2,"rssi":-17.1}
+  ]
+}

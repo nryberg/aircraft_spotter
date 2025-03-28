@@ -1,0 +1,7 @@
+{ "now" : 1743152903.1,
+  "messages" : 846957,
+  "aircraft" : [
+    {"hex":"ab4c1d","flight":"DAL310  ","alt_baro":38550,"alt_geom":38675,"gs":515.9,"track":99.4,"baro_rate":896,"squawk":"1477","emergency":"none","category":"A5","nav_qnh":1013.6,"nav_altitude_mcp":39008,"nav_heading":0.0,"lat":45.273588,"lon":-93.295965,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":78,"seen":0.1,"rssi":-16.2},
+    {"hex":"a01c37","alt_baro":35000,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":22,"seen":39.0,"rssi":-18.7}
+  ]
+}

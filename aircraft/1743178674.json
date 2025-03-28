@@ -1,0 +1,11 @@
+{ "now" : 1743178674.9,
+  "messages" : 1125318,
+  "aircraft" : [
+    {"hex":"a00037","flight":"EJM19   ","alt_baro":13525,"alt_geom":13525,"gs":406.7,"track":43.7,"baro_rate":3904,"squawk":"2451","emergency":"none","category":"A3","nav_qnh":1003.2,"nav_altitude_mcp":45024,"nav_modes":["autopilot","tcas"],"lat":45.149060,"lon":-92.789790,"nic":8,"rc":186,"seen_pos":2.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1217,"seen":2.6,"rssi":-17.5},
+    {"hex":"a8aaa5","flight":"SKW4305 ","alt_baro":10975,"alt_geom":10900,"gs":263.9,"track":256.9,"geom_rate":-1216,"squawk":"4241","emergency":"none","category":"A2","nav_qnh":1003.2,"nav_altitude_mcp":8992,"lat":44.951660,"lon":-92.898887,"nic":8,"rc":186,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1050,"seen":0.0,"rssi":-10.0},
+    {"hex":"a6cacb","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":82,"seen":87.7,"rssi":-21.2},
+    {"hex":"a50c15","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":41,"seen":150.8,"rssi":-21.2},
+    {"hex":"a451db","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":90,"seen":121.1,"rssi":-21.5},
+    {"hex":"aa3b0a","gs":112.8,"track":96.6,"geom_rate":-384,"category":"A1","version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":3098,"seen":18.4,"rssi":-21.5}
+  ]
+}

@@ -1,0 +1,13 @@
+{ "now" : 1743131847.1,
+  "messages" : 805232,
+  "aircraft" : [
+    {"hex":"a583a8","flight":"N4542T  ","alt_baro":1900,"alt_geom":1925,"gs":119.5,"track":46.0,"geom_rate":192,"squawk":"1200","emergency":"none","category":"A1","lat":44.956148,"lon":-92.974950,"nic":9,"rc":75,"seen_pos":3.0,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":77,"seen":0.4,"rssi":-17.5},
+    {"hex":"a3b85b","flight":"MVK35   ","alt_baro":4525,"alt_geom":4350,"gs":126.8,"track":288.9,"baro_rate":0,"category":"A1","nav_qnh":1012.0,"nav_altitude_mcp":4512,"lat":45.252182,"lon":-92.814723,"nic":9,"rc":75,"seen_pos":2.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":51,"seen":2.0,"rssi":-17.1},
+    {"hex":"a3501b","flight":"N312VA  ","alt_baro":1450,"alt_geom":1325,"gs":69.1,"track":214.4,"baro_rate":-832,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1014.4,"nav_altitude_mcp":1984,"nav_modes":[],"lat":45.012010,"lon":-92.867633,"nic":9,"rc":75,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":634,"seen":0.0,"rssi":-3.0},
+    {"hex":"aaf260","flight":"SCX388  ","alt_baro":15625,"alt_geom":15925,"gs":366.1,"track":268.7,"baro_rate":-2304,"squawk":"3564","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":277.0,"lat":44.866241,"lon":-92.685307,"nic":8,"rc":186,"seen_pos":1.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":157,"seen":1.6,"rssi":-17.9},
+    {"hex":"a09bc3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":227.3,"rssi":-19.6},
+    {"hex":"a35b0b","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":116,"seen":161.9,"rssi":-17.4},
+    {"hex":"ac10af","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":146,"seen":207.4,"rssi":-18.1},
+    {"hex":"c01dcb","flight":"FLE629  ","alt_baro":36000,"alt_geom":36125,"gs":398.1,"track":280.9,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":286.2,"lat":45.575944,"lon":-93.385231,"nic":8,"rc":186,"seen_pos":67.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":360,"seen":46.2,"rssi":-19.8}
+  ]
+}

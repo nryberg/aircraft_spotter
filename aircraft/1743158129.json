@@ -1,0 +1,6 @@
+{ "now" : 1743158129.5,
+  "messages" : 857558,
+  "aircraft" : [
+    {"hex":"ab351a","flight":"TSU1016 ","alt_baro":34000,"alt_geom":34250,"gs":425.1,"track":324.5,"geom_rate":0,"squawk":"4024","emergency":"none","category":"A2","nav_qnh":1012.8,"nav_altitude_mcp":34016,"nav_heading":319.2,"lat":45.485400,"lon":-93.382047,"nic":8,"rc":186,"seen_pos":1.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1540,"seen":0.2,"rssi":-18.8}
+  ]
+}

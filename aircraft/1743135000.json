@@ -1,0 +1,8 @@
+{ "now" : 1743135001.0,
+  "messages" : 819894,
+  "aircraft" : [
+    {"hex":"a43887","flight":"N371LL  ","alt_baro":8350,"alt_geom":8325,"gs":183.8,"track":116.1,"baro_rate":1600,"squawk":"2625","emergency":"none","category":"A1","nav_qnh":1011.2,"nav_altitude_mcp":11008,"nav_heading":120.9,"nav_modes":["autopilot","lnav"],"lat":45.048368,"lon":-92.996454,"nic":8,"rc":186,"seen_pos":1.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":155,"seen":1.0,"rssi":-15.4},
+    {"hex":"a40455","flight":"UPS105  ","alt_baro":33025,"alt_geom":33250,"gs":502.0,"track":132.0,"baro_rate":64,"category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32992,"nav_heading":135.7,"nav_modes":["vnav","tcas"],"lat":44.683119,"lon":-92.642815,"nic":8,"rc":186,"seen_pos":38.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":599,"seen":38.3,"rssi":-18.6},
+    {"hex":"a55e4d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2913,"seen":140.5,"rssi":-20.6}
+  ]
+}

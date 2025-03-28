@@ -1,0 +1,13 @@
+{ "now" : 1743131636.8,
+  "messages" : 804226,
+  "aircraft" : [
+    {"hex":"a09bc3","alt_baro":1900,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":7,"seen":17.0,"rssi":-19.6},
+    {"hex":"a35b0b","flight":"SKW3841 ","alt_baro":9425,"alt_geom":9425,"gs":283.2,"track":337.1,"baro_rate":3392,"squawk":"4527","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":17024,"nav_modes":["vnav","tcas"],"lat":45.010574,"lon":-93.084085,"nic":8,"rc":186,"seen_pos":4.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":110,"seen":0.9,"rssi":-14.1},
+    {"hex":"ac10af","flight":"DAL2348 ","alt_baro":11975,"alt_geom":11900,"gs":353.1,"track":114.6,"baro_rate":2368,"squawk":"2604","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":23008,"nav_heading":118.1,"lat":44.726273,"lon":-92.730103,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":143,"seen":0.1,"rssi":-18.5},
+    {"hex":"c01dcb","flight":"FLE629  ","alt_baro":36000,"alt_geom":36125,"gs":397.7,"track":281.3,"baro_rate":0,"squawk":"2212","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":286.9,"lat":45.525156,"lon":-93.016015,"nic":8,"rc":186,"seen_pos":1.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":296,"seen":1.6,"rssi":-19.0},
+    {"hex":"c01a61","category":"A5","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":785,"seen":90.8,"rssi":-16.1},
+    {"hex":"ac1e2d","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":99,"seen":267.3,"rssi":-18.6},
+    {"hex":"a9a167","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":425,"seen":268.9,"rssi":-18.8},
+    {"hex":"a33eb1","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":832,"seen":204.9,"rssi":-18.9}
+  ]
+}

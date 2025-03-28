@@ -1,0 +1,8 @@
+{ "now" : 1743167501.1,
+  "messages" : 982547,
+  "aircraft" : [
+    {"hex":"ab905c","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":25,"seen":72.2,"rssi":-19.3},
+    {"hex":"ab5db8","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":21,"seen":169.2,"rssi":-17.8},
+    {"hex":"abbf49","flight":"SCX1675 ","alt_baro":19925,"alt_geom":19725,"gs":419.3,"track":44.5,"baro_rate":1984,"squawk":"2620","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":24992,"nav_heading":40.8,"lat":45.300797,"lon":-92.467542,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1354,"seen":0.5,"rssi":-19.3}
+  ]
+}

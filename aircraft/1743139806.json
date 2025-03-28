@@ -1,0 +1,10 @@
+{ "now" : 1743139806.9,
+  "messages" : 835868,
+  "aircraft" : [
+    {"hex":"a01805","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":5,"seen":73.6,"rssi":-21.8},
+    {"hex":"a41c69","flight":"DAL2941 ","alt_baro":8150,"alt_geom":7900,"gs":270.4,"track":303.7,"baro_rate":4160,"squawk":"2611","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":16992,"nav_heading":0.0,"lat":44.953355,"lon":-93.095800,"nic":8,"rc":186,"seen_pos":14.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":103,"seen":6.7,"rssi":-16.4},
+    {"hex":"~334efe","type":"tisb_other","sil_type":"unknown","mlat":[],"tisb":[],"messages":5,"seen":89.2,"rssi":-22.8},
+    {"hex":"a1c9d4","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":6,"seen":88.2,"rssi":-21.8},
+    {"hex":"ac6c83","flight":"N9WW    ","alt_baro":13550,"alt_geom":13700,"gs":366.5,"track":93.1,"geom_rate":3008,"squawk":"3632","emergency":"none","category":"A2","lat":44.832687,"lon":-92.597678,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":551,"seen":0.0,"rssi":-18.4}
+  ]
+}

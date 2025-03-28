@@ -1,0 +1,7 @@
+{ "now" : 1743136202.5,
+  "messages" : 824887,
+  "aircraft" : [
+    {"hex":"a09cfe","flight":"DAL2313 ","alt_baro":10175,"alt_geom":10175,"gs":264.7,"track":257.1,"geom_rate":-1280,"squawk":"1712","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":257.3,"lat":44.944463,"lon":-92.943130,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":939,"seen":0.5,"rssi":-15.0},
+    {"hex":"a842a9","alt_baro":8825,"alt_geom":8850,"gs":252.1,"track":303.2,"baro_rate":-960,"squawk":"5777","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"lat":44.943998,"lon":-93.063511,"nic":8,"rc":186,"seen_pos":43.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":680,"seen":38.8,"rssi":-18.2}
+  ]
+}

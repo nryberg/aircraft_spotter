@@ -1,0 +1,13 @@
+{ "now" : 1743123977.4,
+  "messages" : 721519,
+  "aircraft" : [
+    {"hex":"ad6b14","alt_baro":26175,"version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":7.0,"rssi":-20.6},
+    {"hex":"a676b1","alt_baro":3100,"alt_geom":2850,"gs":90.7,"track":148.1,"geom_rate":256,"squawk":"1200","emergency":"none","category":"A1","lat":44.825546,"lon":-92.860042,"nic":10,"rc":25,"seen_pos":42.7,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":51,"seen":39.8,"rssi":-18.7},
+    {"hex":"a6fea3","type":"adsr_icao","flight":"BMJ71   ","alt_baro":2800,"alt_geom":2750,"gs":162.3,"track":122.4,"baro_rate":-896,"category":"A1","lat":44.939761,"lon":-93.328388,"nic":8,"rc":186,"seen_pos":57.6,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":35,"seen":57.6,"rssi":-19.6},
+    {"hex":"a4996b","flight":"DAL1098 ","alt_baro":11175,"alt_geom":11225,"gs":312.9,"track":257.1,"baro_rate":-2688,"squawk":"3515","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":8000,"lat":44.962692,"lon":-92.830876,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":481,"seen":0.1,"rssi":-10.6},
+    {"hex":"ab3282","category":"A3","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":133.1,"rssi":-20.7},
+    {"hex":"a44d1c","flight":"DAL2885 ","alt_baro":10625,"alt_geom":10700,"gs":262.8,"track":294.0,"baro_rate":-1600,"squawk":"3167","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":6016,"nav_heading":294.6,"lat":44.938797,"lon":-93.031311,"nic":8,"rc":186,"seen_pos":0.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1425,"seen":0.0,"rssi":-15.8},
+    {"hex":"a9e624","flight":"N737ME  ","alt_baro":1675,"alt_geom":1550,"gs":50.8,"track":79.8,"baro_rate":832,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1013.6,"nav_altitude_mcp":1984,"lat":44.988510,"lon":-92.836827,"nic":9,"rc":75,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1215,"seen":0.7,"rssi":-17.2},
+    {"hex":"aafc36","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1564,"seen":236.3,"rssi":-19.1}
+  ]
+}

@@ -1,0 +1,6 @@
+{ "now" : 1743152813.0,
+  "messages" : 846876,
+  "aircraft" : [
+    {"hex":"a01c37","alt_baro":34575,"alt_geom":34875,"gs":481.1,"track":93.8,"baro_rate":896,"nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":92.1,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":21,"seen":61.7,"rssi":-18.5}
+  ]
+}

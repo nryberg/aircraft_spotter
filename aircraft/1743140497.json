@@ -1,0 +1,8 @@
+{ "now" : 1743140497.8,
+  "messages" : 836923,
+  "aircraft" : [
+    {"hex":"a1c9d4","type":"adsr_icao","alt_baro":"ground","gs":8.8,"track":306.6,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":["nac_v"],"messages":5,"seen":1.0,"rssi":-23.0},
+    {"hex":"ad1d3d","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":146,"seen":88.1,"rssi":-20.1},
+    {"hex":"c0501e","flight":"ACA129  ","alt_baro":32000,"alt_geom":32275,"gs":413.0,"track":281.3,"baro_rate":0,"squawk":"2205","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_heading":284.8,"lat":45.402398,"lon":-93.293822,"nic":8,"rc":186,"seen_pos":46.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":668,"seen":46.6,"rssi":-18.4}
+  ]
+}

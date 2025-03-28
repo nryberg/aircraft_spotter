@@ -1,0 +1,14 @@
+{ "now" : 1743193483.2,
+  "messages" : 1305673,
+  "aircraft" : [
+    {"hex":"407fd2","flight":"DHK002  ","alt_baro":32000,"alt_geom":32225,"gs":444.1,"track":315.9,"baro_rate":0,"squawk":"7321","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":32000,"nav_heading":322.0,"lat":45.006592,"lon":-92.607945,"nic":8,"rc":186,"seen_pos":2.5,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":366,"seen":1.6,"rssi":-17.3},
+    {"hex":"ab77b9","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":14,"seen":79.7,"rssi":-20.7},
+    {"hex":"a262ad","alt_baro":35000,"alt_geom":35250,"gs":500.9,"track":119.0,"baro_rate":0,"nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":120.9,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":33,"seen":9.0,"rssi":-21.3},
+    {"hex":"a5b3ad","flight":"ASA34   ","alt_baro":35000,"alt_geom":35150,"gs":502.6,"track":98.6,"baro_rate":0,"squawk":"1615","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":92.8,"lat":45.396835,"lon":-92.798832,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":931,"seen":0.1,"rssi":-17.6},
+    {"hex":"a9e624","flight":"N737ME  ","alt_baro":1675,"alt_geom":1250,"gs":49.0,"track":39.2,"baro_rate":-704,"squawk":"1200","emergency":"none","category":"A1","lat":44.990317,"lon":-92.863211,"nic":9,"rc":75,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":992,"seen":0.4,"rssi":-4.8},
+    {"hex":"a0b5d1","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":414,"seen":88.6,"rssi":-19.7},
+    {"hex":"a87cf4","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":754,"seen":109.6,"rssi":-21.0},
+    {"hex":"ab40fd","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":759,"seen":84.3,"rssi":-20.7},
+    {"hex":"a9c506","flight":"ASA555  ","alt_baro":17050,"alt_geom":17125,"gs":346.4,"track":281.8,"baro_rate":1536,"squawk":"2607","emergency":"none","category":"A3","nav_qnh":999.2,"nav_altitude_mcp":23008,"nav_heading":282.0,"lat":44.994324,"lon":-93.191005,"nic":8,"rc":186,"seen_pos":18.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":2105,"seen":4.5,"rssi":-20.1}
+  ]
+}

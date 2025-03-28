@@ -1,0 +1,8 @@
+{ "now" : 1743154314.8,
+  "messages" : 851436,
+  "aircraft" : [
+    {"hex":"adb723","flight":"JBU734  ","alt_baro":35000,"alt_geom":35250,"gs":480.8,"track":50.3,"baro_rate":0,"squawk":"3266","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":45.0,"lat":44.954910,"lon":-92.943617,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":79,"seen":0.0,"rssi":-8.4},
+    {"hex":"ad8ed4","gs":496.0,"track":79.1,"baro_rate":0,"category":"A3","version":2,"nac_v":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1511,"seen":50.8,"rssi":-20.0},
+    {"hex":"a8320e","alt_baro":78700,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":69,"seen":56.8,"rssi":-20.4}
+  ]
+}

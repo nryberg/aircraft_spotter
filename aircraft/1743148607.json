@@ -1,0 +1,8 @@
+{ "now" : 1743148607.8,
+  "messages" : 840879,
+  "aircraft" : [
+    {"hex":"a28de3","alt_baro":33000,"alt_geom":33250,"gs":493.1,"track":106.0,"baro_rate":0,"version":0,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":9,"seen":20.7,"rssi":-19.4},
+    {"hex":"ad2ea1","flight":"ASA274  ","alt_baro":35000,"alt_geom":35250,"gs":496.0,"track":102.1,"baro_rate":0,"category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":94.2,"lat":45.012523,"lon":-93.282902,"nic":8,"rc":186,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":73,"seen":0.3,"rssi":-15.7},
+    {"hex":"899133","flight":"EVA633  ","alt_baro":38000,"alt_geom":38125,"gs":409.7,"track":283.1,"baro_rate":0,"squawk":"7153","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":38016,"nav_heading":284.8,"lat":45.350399,"lon":-93.390086,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1890,"seen":0.0,"rssi":-16.8}
+  ]
+}

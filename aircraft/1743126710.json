@@ -1,0 +1,14 @@
+{ "now" : 1743126710.7,
+  "messages" : 762532,
+  "aircraft" : [
+    {"hex":"ab4c83","alt_baro":17975,"alt_geom":18100,"gs":319.1,"track":268.9,"baro_rate":-1984,"squawk":"3264","emergency":"none","nav_qnh":1012.8,"nav_altitude_mcp":8000,"nav_heading":277.0,"version":0,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"unknown","mlat":[],"tisb":[],"messages":18,"seen":3.3,"rssi":-20.6},
+    {"hex":"ace1af","alt_baro":9500,"alt_geom":9500,"gs":302.4,"track":110.1,"geom_rate":3200,"nav_qnh":1012.8,"nav_altitude_mcp":16992,"lat":44.750480,"lon":-92.931139,"nic":8,"rc":186,"seen_pos":0.6,"version":0,"nic_baro":1,"nac_p":8,"nac_v":1,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":32,"seen":0.6,"rssi":-20.7},
+    {"hex":"a5ea3b","alt_baro":2825,"alt_geom":2700,"gs":133.5,"track":342.1,"baro_rate":-320,"lat":44.845230,"lon":-92.935115,"nic":8,"rc":186,"seen_pos":5.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":12,"seen":4.6,"rssi":-20.1},
+    {"hex":"a96361","flight":"N70392  ","alt_baro":4000,"alt_geom":3925,"gs":111.4,"track":4.6,"geom_rate":128,"squawk":"4533","emergency":"none","category":"A1","lat":44.875900,"lon":-92.819759,"nic":9,"rc":75,"seen_pos":0.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":328,"seen":0.1,"rssi":-17.8},
+    {"hex":"a6981a","flight":"DAL377  ","alt_baro":10150,"alt_geom":10125,"gs":273.8,"track":280.7,"baro_rate":2112,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":16992,"nav_heading":0.0,"lat":45.009264,"lon":-93.243177,"nic":8,"rc":186,"seen_pos":10.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":182,"seen":10.4,"rssi":-17.4},
+    {"hex":"aa468d","type":"adsr_icao","flight":"N761PJ  ","alt_baro":2400,"alt_geom":2275,"gs":109.0,"track":187.9,"geom_rate":0,"category":"A1","lat":45.171405,"lon":-93.104844,"nic":8,"rc":186,"seen_pos":8.5,"nic_baro":0,"nac_p":9,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":47,"seen":8.5,"rssi":-18.8},
+    {"hex":"a3a9a3","flight":"DAL2963 ","alt_baro":10525,"alt_geom":10575,"gs":275.4,"track":293.8,"baro_rate":-1920,"squawk":"0572","emergency":"none","category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.900704,"lon":-92.909032,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":785,"seen":0.0,"rssi":-7.6},
+    {"hex":"ac508b","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":186,"seen":67.8,"rssi":-20.1},
+    {"hex":"a231a6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":43,"seen":283.7,"rssi":-18.2}
+  ]
+}

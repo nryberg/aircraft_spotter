@@ -1,0 +1,6 @@
+{ "now" : 1743154645.2,
+  "messages" : 852439,
+  "aircraft" : [
+    {"hex":"adb723","flight":"JBU734  ","alt_baro":35025,"alt_geom":35225,"gs":507.1,"track":93.7,"baro_rate":0,"squawk":"3266","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":0.0,"lat":45.125702,"lon":-92.019588,"nic":8,"rc":186,"seen_pos":20.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1065,"seen":20.5,"rssi":-19.6}
+  ]
+}

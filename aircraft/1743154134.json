@@ -1,0 +1,7 @@
+{ "now" : 1743154134.6,
+  "messages" : 850863,
+  "aircraft" : [
+    {"hex":"ad8ed4","flight":"ASA35   ","alt_baro":35000,"alt_geom":35250,"gs":495.4,"track":79.4,"baro_rate":0,"squawk":"3250","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":35008,"nav_heading":77.3,"lat":45.222659,"lon":-92.803724,"nic":8,"rc":186,"seen_pos":0.2,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1037,"seen":0.2,"rssi":-14.1},
+    {"hex":"a8320e","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":67,"seen":72.3,"rssi":-19.9}
+  ]
+}

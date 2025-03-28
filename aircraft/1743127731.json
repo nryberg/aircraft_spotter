@@ -1,0 +1,10 @@
+{ "now" : 1743127732.0,
+  "messages" : 771907,
+  "aircraft" : [
+    {"hex":"a2e5ec","flight":"SKW4003 ","alt_baro":7225,"alt_geom":6825,"gs":294.6,"track":34.1,"baro_rate":2880,"category":"A3","nav_qnh":1012.8,"nav_altitude_mcp":17024,"nav_modes":["vnav","tcas"],"lat":44.961688,"lon":-93.035442,"nic":8,"rc":186,"seen_pos":2.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":77,"seen":2.3,"rssi":-19.2},
+    {"hex":"a55e4d","flight":"MVK82   ","alt_baro":5025,"alt_geom":4850,"gs":161.1,"track":20.3,"baro_rate":0,"squawk":"4520","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":4992,"nav_modes":["althold"],"lat":45.206832,"lon":-93.077847,"nic":9,"rc":75,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":260,"seen":0.3,"rssi":-18.9},
+    {"hex":"a091f3","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1302,"seen":225.5,"rssi":-18.2},
+    {"hex":"a3dc47","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":555,"seen":186.5,"rssi":-20.1},
+    {"hex":"a8770d","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1052,"seen":288.7,"rssi":-19.9}
+  ]
+}

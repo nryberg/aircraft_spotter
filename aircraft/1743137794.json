@@ -1,0 +1,9 @@
+{ "now" : 1743137794.4,
+  "messages" : 831537,
+  "aircraft" : [
+    {"hex":"abe8b6","alt_baro":17525,"alt_geom":17675,"gs":327.1,"track":268.8,"baro_rate":-1984,"nav_qnh":1013.6,"nav_altitude_mcp":8000,"nav_heading":267.2,"lat":44.867569,"lon":-92.595062,"nic":8,"rc":186,"seen_pos":8.9,"version":0,"nic_baro":1,"nac_p":8,"nac_v":2,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":17,"seen":4.0,"rssi":-17.0},
+    {"hex":"ab4515","flight":"SCX420  ","alt_baro":14925,"alt_geom":15000,"gs":281.1,"track":268.6,"baro_rate":0,"squawk":"1064","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":8000,"nav_heading":269.3,"lat":44.865189,"lon":-92.758745,"nic":8,"rc":186,"seen_pos":0.7,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":147,"seen":0.1,"rssi":-17.0},
+    {"hex":"a77721","flight":"JIA5277 ","alt_baro":9700,"alt_geom":9675,"gs":267.2,"track":294.1,"geom_rate":-1024,"squawk":"0575","emergency":"none","category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":294.6,"lat":44.911514,"lon":-92.944794,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":456,"seen":0.0,"rssi":-14.3},
+    {"hex":"a09bc3","flight":"N13830  ","alt_baro":5000,"alt_geom":4875,"gs":69.4,"track":245.3,"geom_rate":64,"squawk":"4201","emergency":"none","category":"A1","lat":45.050903,"lon":-93.041578,"nic":8,"rc":186,"seen_pos":24.9,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1070,"seen":5.8,"rssi":-18.6}
+  ]
+}

@@ -1,0 +1,7 @@
+{ "now" : 1743140407.6,
+  "messages" : 836708,
+  "aircraft" : [
+    {"hex":"ad1d3d","flight":"AAL2041 ","alt_baro":10075,"alt_geom":10275,"gs":276.5,"track":281.5,"baro_rate":-640,"squawk":"3147","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":8000,"nav_heading":279.8,"lat":44.749735,"lon":-92.994779,"nic":8,"rc":186,"seen_pos":28.8,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":144,"seen":9.4,"rssi":-20.2},
+    {"hex":"c0501e","flight":"ACA129  ","alt_baro":32000,"alt_geom":32275,"gs":414.4,"track":281.6,"baro_rate":0,"squawk":"2205","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":32000,"nav_heading":284.8,"lat":45.380751,"lon":-93.141956,"nic":8,"rc":186,"seen_pos":13.6,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":479,"seen":2.0,"rssi":-17.6}
+  ]
+}

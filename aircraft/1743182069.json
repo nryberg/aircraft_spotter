@@ -1,0 +1,7 @@
+{ "now" : 1743182069.1,
+  "messages" : 1155528,
+  "aircraft" : [
+    {"hex":"abd580","flight":"N8614P  ","alt_baro":7300,"alt_geom":7025,"gs":134.5,"track":174.9,"baro_rate":192,"squawk":"4503","emergency":"none","category":"A1","nav_qnh":1001.6,"nav_altitude_mcp":7008,"nav_heading":180.0,"lat":44.801687,"lon":-92.609856,"nic":9,"rc":75,"seen_pos":9.8,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":231,"seen":9.3,"rssi":-19.7},
+    {"hex":"a4b3ab","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2020,"seen":106.9,"rssi":-21.2}
+  ]
+}

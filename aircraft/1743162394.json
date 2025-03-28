@@ -1,0 +1,6 @@
+{ "now" : 1743162394.8,
+  "messages" : 866842,
+  "aircraft" : [
+    {"hex":"a12797","flight":"UAL2859 ","alt_baro":36000,"alt_geom":36275,"gs":398.0,"track":274.0,"baro_rate":0,"squawk":"7423","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":277.7,"lat":45.106605,"lon":-92.495973,"nic":8,"rc":186,"seen_pos":0.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":106,"seen":0.1,"rssi":-15.7}
+  ]
+}

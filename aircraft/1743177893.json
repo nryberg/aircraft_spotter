@@ -1,0 +1,14 @@
+{ "now" : 1743177894.0,
+  "messages" : 1119035,
+  "aircraft" : [
+    {"hex":"aa3b0a","flight":"N75866  ","alt_baro":2400,"alt_geom":1975,"gs":76.2,"track":94.5,"geom_rate":1024,"category":"A1","version":0,"nac_v":2,"mlat":[],"tisb":[],"messages":11,"seen":0.2,"rssi":-19.9},
+    {"hex":"a7125a","flight":"N555DS  ","alt_baro":21225,"category":"A1","version":0,"nac_p":8,"sil":2,"sil_type":"unknown","mlat":[],"tisb":[],"messages":10,"seen":9.9,"rssi":-21.6},
+    {"hex":"a55ddf","flight":"N445H   ","alt_baro":3250,"alt_geom":2875,"gs":203.5,"track":244.1,"baro_rate":-128,"squawk":"1421","emergency":"none","category":"A3","nav_qnh":1004.0,"nav_altitude_mcp":3008,"nav_modes":["autopilot","althold","tcas"],"lat":45.061478,"lon":-92.966897,"nic":8,"rc":186,"seen_pos":0.1,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":1182,"seen":0.1,"rssi":-13.2},
+    {"hex":"abd60b","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":82,"seen":149.6,"rssi":-18.3},
+    {"hex":"ad60b7","alt_baro":35025,"category":"A3","lat":44.629770,"lon":-92.491619,"nic":8,"rc":186,"seen_pos":43.9,"version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":53,"seen":43.9,"rssi":-19.0},
+    {"hex":"a376ec","flight":"DAL2575 ","alt_baro":11425,"alt_geom":11325,"gs":255.7,"track":281.0,"baro_rate":2304,"category":"A3","nav_qnh":1004.0,"nav_altitude_mcp":16992,"nav_heading":0.0,"lat":45.001190,"lon":-93.209381,"nic":8,"rc":186,"seen_pos":1.0,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","mlat":[],"tisb":[],"messages":121,"seen":0.9,"rssi":-19.6},
+    {"hex":"a30961","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":130,"seen":217.8,"rssi":-18.8},
+    {"hex":"a96601","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":977,"seen":262.1,"rssi":-18.9},
+    {"hex":"a7eef3","flight":"N610CC  ","alt_baro":5300,"alt_geom":4975,"gs":101.0,"track":181.7,"geom_rate":-64,"squawk":"4565","emergency":"none","category":"A1","lat":44.885422,"lon":-92.852391,"nic":10,"rc":25,"seen_pos":3.3,"version":2,"nic_baro":0,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":3752,"seen":3.3,"rssi":-19.2}
+  ]
+}

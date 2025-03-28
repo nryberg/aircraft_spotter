@@ -1,0 +1,9 @@
+{ "now" : 1743137223.7,
+  "messages" : 829072,
+  "aircraft" : [
+    {"hex":"a3ec93","alt_baro":8025,"alt_geom":7975,"gs":292.6,"track":3.5,"baro_rate":0,"category":"A3","nav_qnh":1012.0,"nav_altitude_mcp":8000,"nav_heading":0.0,"lat":44.959534,"lon":-93.161643,"nic":8,"rc":186,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":9,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":93,"seen":0.5,"rssi":-17.5},
+    {"hex":"ab77b9","flight":"SCX218  ","alt_baro":11525,"alt_geom":11575,"gs":268.7,"track":293.7,"baro_rate":-1728,"squawk":"1434","emergency":"none","category":"A3","nav_qnh":1011.2,"nav_altitude_mcp":8000,"nav_heading":270.0,"lat":44.879290,"lon":-92.842444,"nic":8,"rc":186,"seen_pos":1.4,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":622,"seen":1.2,"rssi":-13.6},
+    {"hex":"a02ac5","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1549,"seen":73.7,"rssi":-19.3},
+    {"hex":"a3bda6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1109,"seen":101.8,"rssi":-20.6}
+  ]
+}

@@ -1,0 +1,8 @@
+{ "now" : 1743168222.0,
+  "messages" : 982919,
+  "aircraft" : [
+    {"hex":"ab1c47","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":12,"seen":78.0,"rssi":-18.5},
+    {"hex":"a449a1","flight":"UAL2072 ","alt_baro":36000,"alt_geom":36225,"gs":404.8,"track":277.8,"baro_rate":0,"squawk":"1571","emergency":"none","category":"A3","nav_qnh":1013.6,"nav_altitude_mcp":36000,"nav_heading":277.7,"lat":45.088729,"lon":-92.761588,"nic":8,"rc":186,"seen_pos":0.3,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":285,"seen":0.3,"rssi":-15.8},
+    {"hex":"a7b13b","version":0,"sil_type":"unknown","mlat":[],"tisb":[],"messages":12,"seen":216.4,"rssi":-18.7}
+  ]
+}

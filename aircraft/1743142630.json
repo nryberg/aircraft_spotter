@@ -1,0 +1,6 @@
+{ "now" : 1743142630.4,
+  "messages" : 837176,
+  "aircraft" : [
+    {"hex":"8990e5","flight":"EVA055  ","alt_baro":30000,"alt_geom":30300,"gs":451.8,"track":303.0,"baro_rate":0,"squawk":"3117","emergency":"none","category":"A5","nav_qnh":1012.8,"nav_altitude_mcp":30016,"nav_heading":305.2,"lat":44.858231,"lon":-92.743901,"nic":8,"rc":186,"seen_pos":1.9,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":67,"seen":1.1,"rssi":-15.4}
+  ]
+}

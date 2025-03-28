@@ -1,0 +1,9 @@
+{ "now" : 1743129233.9,
+  "messages" : 786600,
+  "aircraft" : [
+    {"hex":"a585cc","flight":"MVK98   ","alt_baro":2050,"alt_geom":1925,"gs":131.9,"track":329.0,"baro_rate":-448,"squawk":"1200","emergency":"none","category":"A1","nav_qnh":1012.8,"nav_altitude_mcp":2496,"nav_heading":149.8,"nav_modes":["althold"],"lat":44.944091,"lon":-93.032294,"nic":8,"rc":186,"seen_pos":57.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":42,"seen":21.2,"rssi":-20.1},
+    {"hex":"ac5bf6","version":0,"mlat":[],"tisb":[],"messages":6,"seen":66.0,"rssi":-21.9},
+    {"hex":"a3f10f","category":"A1","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":2376,"seen":158.5,"rssi":-19.4},
+    {"hex":"a59ef7","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1096,"seen":233.1,"rssi":-20.1}
+  ]
+}

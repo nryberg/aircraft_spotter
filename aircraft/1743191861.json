@@ -1,0 +1,10 @@
+{ "now" : 1743191861.2,
+  "messages" : 1284845,
+  "aircraft" : [
+    {"hex":"a979ee","flight":"N71CH   ","alt_baro":4375,"alt_geom":3975,"gs":192.6,"track":256.2,"baro_rate":0,"squawk":"7004","emergency":"none","category":"A2","nav_qnh":999.2,"nav_altitude_mcp":4000,"nav_heading":250.3,"nav_modes":["autopilot","althold","tcas"],"lat":45.095078,"lon":-92.896271,"nic":9,"rc":75,"seen_pos":0.5,"version":2,"nic_baro":1,"nac_p":10,"nac_v":2,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":660,"seen":0.0,"rssi":-9.6},
+    {"hex":"ab109b","flight":"N8118Z  ","alt_baro":6200,"alt_geom":5950,"gs":104.0,"track":125.2,"geom_rate":640,"squawk":"3021","emergency":"none","category":"A1","lat":45.168961,"lon":-93.012674,"nic":8,"rc":186,"seen_pos":6.5,"version":2,"nic_baro":0,"nac_p":10,"nac_v":1,"sil":3,"sil_type":"perhour","gva":2,"sda":2,"mlat":[],"tisb":[],"messages":319,"seen":5.9,"rssi":-19.4},
+    {"hex":"a231a6","category":"A3","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":176,"seen":174.9,"rssi":-21.6},
+    {"hex":"acdcd1","type":"adsr_icao","sil_type":"perhour","mlat":[],"tisb":[],"messages":12,"seen":299.4,"rssi":-20.5},
+    {"hex":"a80fe5","category":"A2","version":2,"sil_type":"perhour","mlat":[],"tisb":[],"messages":1324,"seen":245.4,"rssi":-21.4}
+  ]
+}
