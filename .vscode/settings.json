@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "aircraft",
+            "database": "air_traffic_filtered.db"
+        }
+    ]
+}
